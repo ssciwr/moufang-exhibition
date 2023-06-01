@@ -1,0 +1,4581 @@
+{
+  "edges": [
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "425",
+      "size": 1.0,
+      "source": "Heidelberger Kunstverein",
+      "target": "Franz Radziwill"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "106",
+      "size": 1.0,
+      "source": "Eugen Moufang",
+      "target": "Ilona Scharff"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(94,146,127)",
+      "id": "210",
+      "size": 1.0,
+      "source": "Josef Scharl",
+      "target": "Das Kunstwerk"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "304",
+      "size": 1.0,
+      "source": "Benno Selcke",
+      "target": "Meta Lindemann"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "110",
+      "size": 1.0,
+      "source": "Julie Moufang",
+      "target": "Nicola Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "447",
+      "size": 1.0,
+      "source": "Nicola Moufang",
+      "target": "K\u00f6nigliche Porzellan-Manufaktur, Berlin"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "201",
+      "size": 1.0,
+      "source": "Galerie Nierendorf",
+      "target": "Florian Karsch"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,117,77)",
+      "id": "68",
+      "size": 1.0,
+      "source": "Hanna Nagel",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,152,178)",
+      "id": "83",
+      "size": 1.0,
+      "source": "Hanna Nagel",
+      "target": "Nicola Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "172",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Viktoria Noonan"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "138",
+      "size": 1.0,
+      "source": "Nicola Moufang",
+      "target": "Bruno Paul"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(172,120,154)",
+      "id": "387",
+      "size": 1.0,
+      "source": "Edwin Scharff",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "450",
+      "size": 1.0,
+      "source": "Edwin Scharff",
+      "target": "Reichsausstellung \"Schaffendes Volk\", D\u00fcsseldorf, 1937"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "455",
+      "size": 1.0,
+      "source": "Brigitte Heiliger-Kramm",
+      "target": "Hans Fischer-Schuppach"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "261",
+      "size": 1.0,
+      "source": "Wilhelm Moufang sen.",
+      "target": "Nicola Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "302",
+      "size": 1.0,
+      "source": "Ewald Lindemann",
+      "target": "Meta Lindemann"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,97,154)",
+      "id": "2",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Georg Poensgen"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "53",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Signe Gehrmann"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "373",
+      "size": 1.0,
+      "source": "Pieter Sohl",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(177,111,26)",
+      "id": "415",
+      "size": 1.0,
+      "source": "Gerhard Marcks",
+      "target": "Graphisches Kabinett Dr. Hanna Grisebach"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,149,101)",
+      "id": "76",
+      "size": 1.0,
+      "source": "Hanna Nagel",
+      "target": "Igor von Jakimow"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,100,231)",
+      "id": "145",
+      "size": 1.0,
+      "source": "Eva Moufang",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(172,120,154)",
+      "id": "331",
+      "size": 1.0,
+      "source": "Edwin Scharff",
+      "target": "Kunsthalle Mannheim"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "391",
+      "size": 1.0,
+      "source": "Gustav Seitz",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,149,101)",
+      "id": "93",
+      "size": 1.0,
+      "source": "Igor von Jakimow",
+      "target": "Hans Pfitzner"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(49,91,103)",
+      "id": "164",
+      "size": 1.0,
+      "source": "Albert Einstein",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "38",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Hans-Karl Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "159",
+      "size": 1.0,
+      "source": "Hildegard Prytek",
+      "target": "Josef Scharl"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "452",
+      "size": 1.0,
+      "source": "Edwin Scharff",
+      "target": "Ausstellung \"Entartete Kunst\", M\u00fcnchen, 1937"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "224",
+      "size": 1.0,
+      "source": "Ella Zahn",
+      "target": "Hermann Speer"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "296",
+      "size": 1.0,
+      "source": "Benno Selcke",
+      "target": "Richard Austin"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "454",
+      "size": 1.0,
+      "source": "Nicola Moufang",
+      "target": "Hans Fischer-Schuppach"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(160,103,179)",
+      "id": "123",
+      "size": 1.0,
+      "source": "NSDAP",
+      "target": "Edwin Scharff"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "358",
+      "size": 1.0,
+      "source": "Ida Kerkovius",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "382",
+      "size": 1.0,
+      "source": "HAP Grieshaber",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "463",
+      "size": 1.0,
+      "source": "Lovis Corinth",
+      "target": "Ausstellung \"Entartete Kunst\", M\u00fcnchen, 1937"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "160",
+      "size": 1.0,
+      "source": "Josef Nierendorf",
+      "target": "Hildegard Prytek"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "205",
+      "size": 1.0,
+      "source": "Meta Nierendorf",
+      "target": "Florian Karsch"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(115,48,155)",
+      "id": "211",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Wolfgang Gurlitt"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "103",
+      "size": 1.0,
+      "source": "Nicola Moufang",
+      "target": "Edwin Scharff"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "183",
+      "size": 1.0,
+      "source": "Hildegard Prytek",
+      "target": "Hilla von Rebay"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "4",
+      "size": 1.0,
+      "source": "Heidelberger Kunstverein",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "237",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Ulrika Ratka"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,152,178)",
+      "id": "306",
+      "size": 1.0,
+      "source": "Eugen Moufang",
+      "target": "Hanna Nagel"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "385",
+      "size": 1.0,
+      "source": "GEDOK",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(49,91,103)",
+      "id": "203",
+      "size": 1.0,
+      "source": "Florian Karsch",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "240",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Edvard Munch"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "193",
+      "size": 1.0,
+      "source": "Galerie Nierendorf",
+      "target": "Karl Nierendorf"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "370",
+      "size": 1.0,
+      "source": "Hans Hafenrichter",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "429",
+      "size": 1.0,
+      "source": "Die Gilbertisten",
+      "target": "Willibald Kramm"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,97,154)",
+      "id": "43",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Hanna Nagel"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "174",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Tom A. Noonan"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "479",
+      "size": 1.0,
+      "source": "Edwin Scharff",
+      "target": "Ilona Scharff"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "426",
+      "size": 1.0,
+      "source": "Bruno Paul",
+      "target": "K\u00f6nigliche Porzellan-Manufaktur, Berlin"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "437",
+      "size": 1.0,
+      "source": "Wolfgang Frommel",
+      "target": "Wilhelm Fraenger\u00a0"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "59",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Wolfgang Rothe"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "226",
+      "size": 1.0,
+      "source": "Ella Zahn",
+      "target": "Nicola Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "140",
+      "size": 1.0,
+      "source": "Edwin Scharff",
+      "target": "Bruno Paul"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,117,77)",
+      "id": "95",
+      "size": 1.0,
+      "source": "Hanna Nagel",
+      "target": "Klaus Mugdan"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "241",
+      "size": 1.0,
+      "source": "Edvard Munch",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "339",
+      "size": 1.0,
+      "source": "Hans Hafenrichter",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "188",
+      "size": 1.0,
+      "source": "Amerikahaus M\u00fcnchen",
+      "target": "Josef Scharl"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,100,231)",
+      "id": "31",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Wilhelm Moufang jun."
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "16",
+      "size": 1.0,
+      "source": "Marie Marcks",
+      "target": "Willibald Kramm"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "350",
+      "size": 1.0,
+      "source": "Horst Skodlerrak",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,152,178)",
+      "id": "84",
+      "size": 1.0,
+      "source": "Hanna Nagel",
+      "target": "Margret Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,149,101)",
+      "id": "79",
+      "size": 1.0,
+      "source": "Igor von Jakimow",
+      "target": "Georg Poensgen"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "190",
+      "size": 1.0,
+      "source": "Otto Schmidt",
+      "target": "Karl Nierendorf"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,100,231)",
+      "id": "134",
+      "size": 1.0,
+      "source": "Das Kunstwerk",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "404",
+      "size": 1.0,
+      "source": "Will Sohl",
+      "target": "Kurpf\u00e4lzisches Museum Heidelberg"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "135",
+      "size": 1.0,
+      "source": "Das Kunstwerk",
+      "target": "Nicola Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(230,52,104)",
+      "id": "0",
+      "size": 1.0,
+      "source": "Reichskammer der bildenden K\u00fcnste",
+      "target": "Adolf Hitler"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "96",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Klaus Mugdan"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(115,48,155)",
+      "id": "230",
+      "size": 1.0,
+      "source": "Wolfgang Gurlitt",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(230,52,104)",
+      "id": "227",
+      "size": 1.0,
+      "source": "Wolfgang Gurlitt",
+      "target": "Lovis Corinth"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "403",
+      "size": 1.0,
+      "source": "HAP Grieshaber",
+      "target": "Kurpf\u00e4lzisches Museum Heidelberg"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "194",
+      "size": 1.0,
+      "source": "Galerie Nierendorf",
+      "target": "Josef Nierendorf"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "321",
+      "size": 1.0,
+      "source": "Hans Hafenrichter",
+      "target": "Erich Kuhn"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,100,231)",
+      "id": "50",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Hermann Speer"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(160,103,179)",
+      "id": "214",
+      "size": 1.0,
+      "source": "Nicola Moufang",
+      "target": "Oskar Kokoschka"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,100,231)",
+      "id": "51",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Hermann Speer"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,149,101)",
+      "id": "332",
+      "size": 1.0,
+      "source": "Louise von Jakimow",
+      "target": "Igor von Jakimow"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "202",
+      "size": 1.0,
+      "source": "Galerie Nierendorf",
+      "target": "Meta Nierendorf"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "467",
+      "size": 1.0,
+      "source": "Ausstellung \"Entartete Kunst\", M\u00fcnchen, 1937",
+      "target": "Adolf Hitler"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "33",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Minnie Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "460",
+      "size": 1.0,
+      "source": "Karl Nierendorf",
+      "target": "Meta Nierendorf"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "182",
+      "size": 1.0,
+      "source": "Hilla von Rebay",
+      "target": "Karl Nierendorf"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "208",
+      "size": 1.0,
+      "source": "Georg Ehrlich",
+      "target": "Josef Scharl"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "222",
+      "size": 1.0,
+      "source": "Ella Zahn",
+      "target": "Margret Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "459",
+      "size": 1.0,
+      "source": "Galerie Nierendorf",
+      "target": "Edwin Scharff"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "132",
+      "size": 1.0,
+      "source": "Leopold Zahn",
+      "target": "Eugen Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "7",
+      "size": 1.0,
+      "source": "Heidelberger Kunstverein",
+      "target": "Marie Marcks"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,152,178)",
+      "id": "246",
+      "size": 1.0,
+      "source": "Gerhard Frommel",
+      "target": "Margret Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "99",
+      "size": 1.0,
+      "source": "Klaus Mugdan",
+      "target": "Kurpf\u00e4lzisches Museum Heidelberg"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "109",
+      "size": 1.0,
+      "source": "Julie Moufang",
+      "target": "Edwin Scharff"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "458",
+      "size": 1.0,
+      "source": "Galerie Nierendorf",
+      "target": "Gerhard Marcks"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "242",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "David Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "390",
+      "size": 1.0,
+      "source": "Hans Purrmann",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "17",
+      "size": 1.0,
+      "source": "Marie Marcks",
+      "target": "Cave 54"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "23",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Hanna Grisebach"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "303",
+      "size": 1.0,
+      "source": "Richard Austin",
+      "target": "Meta Lindemann"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "353",
+      "size": 1.0,
+      "source": "GEDOK",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "1",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Gustav Friedrich Hartlaub"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "199",
+      "size": 1.0,
+      "source": "Galerie Nierendorf",
+      "target": "Josef Scharl"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "264",
+      "size": 1.0,
+      "source": "Wilhelm Moufang sen.",
+      "target": "Eugen Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "137",
+      "size": 1.0,
+      "source": "Das Kunstwerk",
+      "target": "Wilhelm Moufang jun."
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "354",
+      "size": 1.0,
+      "source": "Albrecht Wechssler",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "256",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Klaus Staeck"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "409",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Kunsthalle Mannheim"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "368",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "204",
+      "size": 1.0,
+      "source": "Meta Nierendorf",
+      "target": "Josef Nierendorf"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(230,52,104)",
+      "id": "475",
+      "size": 1.0,
+      "source": "Reichskammer der bildenden K\u00fcnste",
+      "target": "Wolfgang Gurlitt"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "462",
+      "size": 1.0,
+      "source": "Oskar Kokoschka",
+      "target": "Ausstellung \"Entartete Kunst\", M\u00fcnchen, 1937"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "5",
+      "size": 1.0,
+      "source": "Heidelberger Kunstverein",
+      "target": "Gustav Friedrich Hartlaub"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "276",
+      "size": 1.0,
+      "source": "Nicola Moufang",
+      "target": "Wilhelm Moufang jun."
+    },
+    {
+      "attributes": {},
+      "color": "rgb(49,91,103)",
+      "id": "192",
+      "size": 1.0,
+      "source": "Otto Schmidt",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "435",
+      "size": 1.0,
+      "source": "Eva Moufang",
+      "target": "Wilhelm Fraenger\u00a0"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "274",
+      "size": 1.0,
+      "source": "Nicola Moufang",
+      "target": "Fritz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(49,91,103)",
+      "id": "11",
+      "size": 1.0,
+      "source": "Gerhard Marcks",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "170",
+      "size": 1.0,
+      "source": "Karl Nierendorf",
+      "target": "Josef Scharl"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "359",
+      "size": 1.0,
+      "source": "Hans Purrmann",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "418",
+      "size": 1.0,
+      "source": "Eduard Bargheer",
+      "target": "Graphisches Kabinett Dr. Hanna Grisebach"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "300",
+      "size": 1.0,
+      "source": "Richard Austin",
+      "target": "Ewald Lindemann"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,117,77)",
+      "id": "6",
+      "size": 1.0,
+      "source": "Heidelberger Kunstverein",
+      "target": "Georg Poensgen"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "456",
+      "size": 1.0,
+      "source": "Hanna Nagel",
+      "target": "Hans Fischer-Schuppach"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(49,91,103)",
+      "id": "198",
+      "size": 1.0,
+      "source": "Galerie Nierendorf",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "417",
+      "size": 1.0,
+      "source": "Gustav Seitz",
+      "target": "Graphisches Kabinett Dr. Hanna Grisebach"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "136",
+      "size": 1.0,
+      "source": "Das Kunstwerk",
+      "target": "Eugen Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "254",
+      "size": 1.0,
+      "source": "Nicola Moufang",
+      "target": "Georg Alexander Math\u00e9y"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "448",
+      "size": 1.0,
+      "source": "Edwin Scharff",
+      "target": "Reichsausstellung \"Schaffendes Volk\", D\u00fcsseldorf, 1937"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "277",
+      "size": 1.0,
+      "source": "Eugen Moufang",
+      "target": "Fritz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "221",
+      "size": 1.0,
+      "source": "Ella Zahn",
+      "target": "Leopold Zahn"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "461",
+      "size": 1.0,
+      "source": "Karl Nierendorf",
+      "target": "Florian Karsch"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,149,101)",
+      "id": "245",
+      "size": 1.0,
+      "source": "Wolfgang Frommel",
+      "target": "Gerhard Frommel"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "151",
+      "size": 1.0,
+      "source": "Margret Moufang",
+      "target": "Nicola Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,100,231)",
+      "id": "29",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Eva Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "428",
+      "size": 1.0,
+      "source": "Die Gilbertisten",
+      "target": "Brigitte Heiliger-Kramm"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,100,231)",
+      "id": "111",
+      "size": 1.0,
+      "source": "Julie Moufang",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,117,77)",
+      "id": "410",
+      "size": 1.0,
+      "source": "Hans Fischer-Schuppach",
+      "target": "Kunsthalle Mannheim"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "323",
+      "size": 1.0,
+      "source": "Erich Kuhn",
+      "target": "Beate Kuhn"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "328",
+      "size": 1.0,
+      "source": "Karin Bruns",
+      "target": "Marie Marcks"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "234",
+      "size": 1.0,
+      "source": "Charlotte Joeres",
+      "target": "Margret Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "54",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Geno Hartlaub"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "55",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Geno Hartlaub"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,117,77)",
+      "id": "80",
+      "size": 1.0,
+      "source": "Igor von Jakimow",
+      "target": "Gustav Friedrich Hartlaub"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,97,154)",
+      "id": "349",
+      "size": 1.0,
+      "source": "Hans Fischer-Schuppach",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "112",
+      "size": 1.0,
+      "source": "Julie Moufang",
+      "target": "Eugen Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "440",
+      "size": 1.0,
+      "source": "Karl Nierendorf",
+      "target": "Solomon R. Guggenheim"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "175",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "William E. Dietz"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(172,120,154)",
+      "id": "249",
+      "size": 1.0,
+      "source": "Hanna Grisebach",
+      "target": "Das Kunstwerk"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "444",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Amerikahaus Heidelberg/DAI"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "98",
+      "size": 1.0,
+      "source": "Brigitte Heiliger-Kramm",
+      "target": "Klaus Mugdan"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "236",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Helga J\u00f6rgens"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,149,101)",
+      "id": "248",
+      "size": 1.0,
+      "source": "Gerhard Frommel",
+      "target": "Hans Pfitzner"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,117,77)",
+      "id": "405",
+      "size": 1.0,
+      "source": "Hanna Nagel",
+      "target": "GEDOK"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "407",
+      "size": 1.0,
+      "source": "Graphisches Kabinett Dr. Hanna Grisebach",
+      "target": "GEDOK"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "414",
+      "size": 1.0,
+      "source": "Ida Kerkovius",
+      "target": "Graphisches Kabinett Dr. Hanna Grisebach"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "318",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Graphisches Kabinett Dr. Hanna Grisebach"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "148",
+      "size": 1.0,
+      "source": "Eva Moufang",
+      "target": "Bruno Paul"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "351",
+      "size": 1.0,
+      "source": "HAP Grieshaber",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "446",
+      "size": 1.0,
+      "source": "Edwin Scharff",
+      "target": "K\u00f6nigliche Porzellan-Manufaktur, Berlin"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,100,231)",
+      "id": "267",
+      "size": 1.0,
+      "source": "Nicola Moufang",
+      "target": "Deutsche Werkst\u00e4tten Hellerau"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(49,91,103)",
+      "id": "158",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Hildegard Prytek"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "386",
+      "size": 1.0,
+      "source": "Albrecht Wechssler",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(177,111,26)",
+      "id": "167",
+      "size": 1.0,
+      "source": "Josef Scharl",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "58",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Maria Rothe"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "375",
+      "size": 1.0,
+      "source": "Hans Nagel",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "15",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Walter Passarge"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,97,154)",
+      "id": "77",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Igor von Jakimow"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "21",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Cave 54"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "180",
+      "size": 1.0,
+      "source": "Hilla von Rebay",
+      "target": "Josef Nierendorf"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "146",
+      "size": 1.0,
+      "source": "Eva Moufang",
+      "target": "Wilhelm Moufang jun."
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "173",
+      "size": 1.0,
+      "source": "Viktoria Noonan",
+      "target": "Tom A. Noonan"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "247",
+      "size": 1.0,
+      "source": "Margret Moufang",
+      "target": "Mali Pfitzner"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "220",
+      "size": 1.0,
+      "source": "Leopold Zahn",
+      "target": "Hermann Speer"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "468",
+      "size": 1.0,
+      "source": "Amerikahaus Heidelberg/DAI",
+      "target": "Klaus Staeck"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,149,101)",
+      "id": "86",
+      "size": 1.0,
+      "source": "Hanna Nagel",
+      "target": "Irene Fischer-Nagel"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "383",
+      "size": 1.0,
+      "source": "Karin Bruns",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "297",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Benno Selcke"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "67",
+      "size": 1.0,
+      "source": "Brigitte Heiliger-Kramm",
+      "target": "Marie Marcks"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "155",
+      "size": 1.0,
+      "source": "Margret Moufang",
+      "target": "Edwin Scharff"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,152,178)",
+      "id": "225",
+      "size": 1.0,
+      "source": "Ella Zahn",
+      "target": "Georg Poensgen"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "195",
+      "size": 1.0,
+      "source": "Galerie Nierendorf",
+      "target": "Otto Schmidt"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "232",
+      "size": 1.0,
+      "source": "Hanna Grisebach",
+      "target": "Gustav Friedrich Hartlaub"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "301",
+      "size": 1.0,
+      "source": "Ewald Lindemann",
+      "target": "Benno Selcke"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "278",
+      "size": 1.0,
+      "source": "Eugen Moufang",
+      "target": "Wilhelm Moufang jun."
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "432",
+      "size": 1.0,
+      "source": "Aloys Kontarsky\u00a0",
+      "target": "Margret Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "434",
+      "size": 1.0,
+      "source": "Nicola Moufang",
+      "target": "Gustel (Augusta Amalia) Speer"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "30",
+      "size": 1.0,
+      "source": "Nicola Moufang",
+      "target": "Eva Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,97,154)",
+      "id": "89",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Irene Fischer-Nagel"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "228",
+      "size": 1.0,
+      "source": "Gustav Friedrich Hartlaub",
+      "target": "Walter Passarge"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,117,77)",
+      "id": "399",
+      "size": 1.0,
+      "source": "Hanna Nagel",
+      "target": "Kurpf\u00e4lzisches Museum Heidelberg"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "298",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Richard Austin"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "185",
+      "size": 1.0,
+      "source": "Wolfgang Sauerl\u00e4nder",
+      "target": "Josef Scharl"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "57",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Wolfgang Rothe"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "451",
+      "size": 1.0,
+      "source": "Edwin Scharff",
+      "target": "Landeskunstschule Hamburg"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,100,231)",
+      "id": "101",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Edwin Scharff"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "406",
+      "size": 1.0,
+      "source": "Hanna Grisebach",
+      "target": "GEDOK"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "231",
+      "size": 1.0,
+      "source": "Hanna Grisebach",
+      "target": "Walter Passarge"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,100,231)",
+      "id": "239",
+      "size": 1.0,
+      "source": "Edwin Scharff",
+      "target": "Ulrika Ratka"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "335",
+      "size": 1.0,
+      "source": "Will Sohl",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "433",
+      "size": 1.0,
+      "source": "Hermann Speer",
+      "target": "Gustel (Augusta Amalia) Speer"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(49,91,103)",
+      "id": "157",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Josef Scharl"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "360",
+      "size": 1.0,
+      "source": "Gustav Seitz",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(160,103,179)",
+      "id": "478",
+      "size": 1.0,
+      "source": "Reichskammer der bildenden K\u00fcnste",
+      "target": "Edwin Scharff"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,100,231)",
+      "id": "238",
+      "size": 1.0,
+      "source": "Edwin Scharff",
+      "target": "Helga J\u00f6rgens"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(177,111,26)",
+      "id": "8",
+      "size": 1.0,
+      "source": "Heidelberger Kunstverein",
+      "target": "Gerhard Marcks"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "445",
+      "size": 1.0,
+      "source": "Edwin Scharff",
+      "target": "D\u00fcsseldorfer Kunstakademie"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "22",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Kurpf\u00e4lzisches Museum Heidelberg"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "420",
+      "size": 1.0,
+      "source": "Will Sohl",
+      "target": "Graphisches Kabinett Dr. Hanna Grisebach"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "153",
+      "size": 1.0,
+      "source": "Margret Moufang",
+      "target": "Wilhelm Moufang jun."
+    },
+    {
+      "attributes": {},
+      "color": "rgb(172,120,154)",
+      "id": "402",
+      "size": 1.0,
+      "source": "Kurpf\u00e4lzisches Museum Heidelberg",
+      "target": "Nicola Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "129",
+      "size": 1.0,
+      "source": "Leopold Zahn",
+      "target": "Das Kunstwerk"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "310",
+      "size": 1.0,
+      "source": "Wolfgang Fortner",
+      "target": "Edwin Kuntz"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "343",
+      "size": 1.0,
+      "source": "Eduard Bargheer",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "65",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Leopold Stahl"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "105",
+      "size": 1.0,
+      "source": "Eugen Moufang",
+      "target": "Edwin Scharff"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "281",
+      "size": 1.0,
+      "source": "Leopold Zahn",
+      "target": "Edwin Scharff"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "473",
+      "size": 1.0,
+      "source": "David Moufang",
+      "target": "Hans-Karl Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "39",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Hans-Karl Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "324",
+      "size": 1.0,
+      "source": "Pieter Sohl",
+      "target": "Will Sohl"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "342",
+      "size": 1.0,
+      "source": "Pieter Sohl",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "265",
+      "size": 1.0,
+      "source": "Wilhelm Moufang sen.",
+      "target": "Wilhelm Moufang jun."
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "438",
+      "size": 1.0,
+      "source": "Galerie Nierendorf",
+      "target": "Solomon R. Guggenheim"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,100,231)",
+      "id": "32",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Wilhelm Moufang jun."
+    },
+    {
+      "attributes": {},
+      "color": "rgb(49,91,103)",
+      "id": "207",
+      "size": 1.0,
+      "source": "Georg Ehrlich",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "283",
+      "size": 1.0,
+      "source": "Nicola Moufang",
+      "target": "Kurt Karl Eberlein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "322",
+      "size": 1.0,
+      "source": "Hans Hafenrichter",
+      "target": "Beate Kuhn"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(177,111,26)",
+      "id": "12",
+      "size": 1.0,
+      "source": "Gerhard Marcks",
+      "target": "Walter Passarge"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(230,52,104)",
+      "id": "288",
+      "size": 1.0,
+      "source": "Albert Speer",
+      "target": "Adolf Hitler"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "400",
+      "size": 1.0,
+      "source": "Gustav Friedrich Hartlaub",
+      "target": "Kurpf\u00e4lzisches Museum Heidelberg"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,100,231)",
+      "id": "34",
+      "size": 1.0,
+      "source": "Wilhelm Moufang jun.",
+      "target": "Minnie Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "189",
+      "size": 1.0,
+      "source": "Amerikahaus M\u00fcnchen",
+      "target": "Hilla von Rebay"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "165",
+      "size": 1.0,
+      "source": "Hildegard Prytek",
+      "target": "Albert Einstein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "27",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Brigitte Heiliger-Kramm"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "431",
+      "size": 1.0,
+      "source": "Aloys Kontarsky\u00a0",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "186",
+      "size": 1.0,
+      "source": "Otto Schmidt",
+      "target": "Josef Scharl"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "217",
+      "size": 1.0,
+      "source": "Joachim Karsch",
+      "target": "Gerhard Marcks"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "169",
+      "size": 1.0,
+      "source": "Karl Nierendorf",
+      "target": "Hildegard Prytek"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "171",
+      "size": 1.0,
+      "source": "Josef Nierendorf",
+      "target": "Josef Scharl"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,149,101)",
+      "id": "74",
+      "size": 1.0,
+      "source": "Hanna Nagel",
+      "target": "Georg Poensgen"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "284",
+      "size": 1.0,
+      "source": "Nicola Moufang",
+      "target": "Hermann Speer"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,97,154)",
+      "id": "71",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Heinz Ohff"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "374",
+      "size": 1.0,
+      "source": "Eduard Bargheer",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,97,154)",
+      "id": "92",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Hans Pfitzner"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "401",
+      "size": 1.0,
+      "source": "Kurpf\u00e4lzisches Museum Heidelberg",
+      "target": "GEDOK"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,117,77)",
+      "id": "78",
+      "size": 1.0,
+      "source": "Igor von Jakimow",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(94,146,127)",
+      "id": "162",
+      "size": 1.0,
+      "source": "Josef Scharl",
+      "target": "Margret Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "24",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Hanna Grisebach"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "113",
+      "size": 1.0,
+      "source": "Julie Moufang",
+      "target": "Wilhelm Moufang jun."
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "263",
+      "size": 1.0,
+      "source": "Wilhelm Moufang sen.",
+      "target": "Fritz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,149,101)",
+      "id": "70",
+      "size": 1.0,
+      "source": "Hanna Nagel",
+      "target": "Heinz Ohff"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "196",
+      "size": 1.0,
+      "source": "Galerie Nierendorf",
+      "target": "Hildegard Prytek"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "219",
+      "size": 1.0,
+      "source": "Leopold Zahn",
+      "target": "Margret Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "436",
+      "size": 1.0,
+      "source": "Nicola Moufang",
+      "target": "Wilhelm Fraenger\u00a0"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "378",
+      "size": 1.0,
+      "source": "Brigitte Heiliger-Kramm",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "411",
+      "size": 1.0,
+      "source": "Hans Nagel",
+      "target": "Kunsthalle Mannheim"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "197",
+      "size": 1.0,
+      "source": "Galerie Nierendorf",
+      "target": "Hilla von Rebay"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "290",
+      "size": 1.0,
+      "source": "Nicola Moufang",
+      "target": "Gro\u00dfherzogliche Majolika-Manufaktur Karlsruhe"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "299",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Ewald Lindemann"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "441",
+      "size": 1.0,
+      "source": "Hilla von Rebay",
+      "target": "Solomon R. Guggenheim"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(160,103,179)",
+      "id": "287",
+      "size": 1.0,
+      "source": "Albert Speer",
+      "target": "Hermann Speer"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "372",
+      "size": 1.0,
+      "source": "Beate Kuhn",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,100,231)",
+      "id": "28",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Nicola Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "427",
+      "size": 1.0,
+      "source": "Die Gilbertisten",
+      "target": "Marie Marcks"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,97,154)",
+      "id": "398",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Georg Poensgen"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "346",
+      "size": 1.0,
+      "source": "Hans Nagel",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "393",
+      "size": 1.0,
+      "source": "Edwin Neyer",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,100,231)",
+      "id": "139",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Bruno Paul"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(172,120,154)",
+      "id": "235",
+      "size": 1.0,
+      "source": "Charlotte Joeres",
+      "target": "Hanna Grisebach"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(230,52,104)",
+      "id": "476",
+      "size": 1.0,
+      "source": "Reichskammer der bildenden K\u00fcnste",
+      "target": "NSDAP"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "366",
+      "size": 1.0,
+      "source": "Will Sohl",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,152,178)",
+      "id": "3",
+      "size": 1.0,
+      "source": "Nicola Moufang",
+      "target": "Georg Poensgen"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,100,231)",
+      "id": "130",
+      "size": 1.0,
+      "source": "Leopold Zahn",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "46",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Rudolf Steinbach"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "295",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Ernst Krenek"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "191",
+      "size": 1.0,
+      "source": "Otto Schmidt",
+      "target": "Josef Nierendorf"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(49,91,103)",
+      "id": "216",
+      "size": 1.0,
+      "source": "Joachim Karsch",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "10",
+      "size": 1.0,
+      "source": "Marie Marcks",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "56",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Gustav Friedrich Hartlaub"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "377",
+      "size": 1.0,
+      "source": "Edzard Hobbing",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,149,101)",
+      "id": "91",
+      "size": 1.0,
+      "source": "Hanna Nagel",
+      "target": "Hans Pfitzner"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "61",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Edwin Kuntz"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "317",
+      "size": 1.0,
+      "source": "Josef Scharl",
+      "target": "Emy Roeder"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(49,91,103)",
+      "id": "9",
+      "size": 1.0,
+      "source": "Marie Marcks",
+      "target": "Gerhard Marcks"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,100,231)",
+      "id": "100",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Eugen Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "439",
+      "size": 1.0,
+      "source": "Hildegard Prytek",
+      "target": "Solomon R. Guggenheim"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "149",
+      "size": 1.0,
+      "source": "Eva Moufang",
+      "target": "Edwin Scharff"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "330",
+      "size": 1.0,
+      "source": "Brigitte Heiliger-Kramm",
+      "target": "Karin Bruns"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "395",
+      "size": 1.0,
+      "source": "Walter Passarge",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "474",
+      "size": 1.0,
+      "source": "David Moufang",
+      "target": "Margret Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "333",
+      "size": 1.0,
+      "source": "Gustav Seitz",
+      "target": "Willibald Kramm"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,100,231)",
+      "id": "14",
+      "size": 1.0,
+      "source": "Marie Marcks",
+      "target": "Nicola Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(115,48,155)",
+      "id": "212",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Oskar Kokoschka"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(230,52,104)",
+      "id": "213",
+      "size": 1.0,
+      "source": "Wolfgang Gurlitt",
+      "target": "Oskar Kokoschka"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "133",
+      "size": 1.0,
+      "source": "Leopold Zahn",
+      "target": "Wilhelm Moufang jun."
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "341",
+      "size": 1.0,
+      "source": "Beate Kuhn",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "156",
+      "size": 1.0,
+      "source": "Margret Moufang",
+      "target": "Ilona Scharff"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "266",
+      "size": 1.0,
+      "source": "Wilhelm Moufang sen.",
+      "target": "Julie Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "312",
+      "size": 1.0,
+      "source": "Ewald Lindemann",
+      "target": "Wolfgang Fortner"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "371",
+      "size": 1.0,
+      "source": "Erich Kuhn",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "168",
+      "size": 1.0,
+      "source": "Karl Nierendorf",
+      "target": "Josef Nierendorf"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "233",
+      "size": 1.0,
+      "source": "Charlotte Joeres",
+      "target": "Hermann Speer"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,97,154)",
+      "id": "258",
+      "size": 1.0,
+      "source": "Hans-Karl Moufang",
+      "target": "Hanna Nagel"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "347",
+      "size": 1.0,
+      "source": "Edzard Hobbing",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "107",
+      "size": 1.0,
+      "source": "Wilhelm Moufang jun.",
+      "target": "Edwin Scharff"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "97",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Klaus Mugdan"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(160,103,179)",
+      "id": "122",
+      "size": 1.0,
+      "source": "NSDAP",
+      "target": "Nicola Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "52",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Signe Gehrmann"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "416",
+      "size": 1.0,
+      "source": "HAP Grieshaber",
+      "target": "Graphisches Kabinett Dr. Hanna Grisebach"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "131",
+      "size": 1.0,
+      "source": "Leopold Zahn",
+      "target": "Nicola Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "18",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Willibald Kramm"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,97,154)",
+      "id": "357",
+      "size": 1.0,
+      "source": "Louise von Jakimow",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "430",
+      "size": 1.0,
+      "source": "Aloys Kontarsky\u00a0",
+      "target": "Willibald Kramm"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(160,103,179)",
+      "id": "229",
+      "size": 1.0,
+      "source": "Wolfgang Gurlitt",
+      "target": "Nicola Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "243",
+      "size": 1.0,
+      "source": "Georg Alexander Math\u00e9y",
+      "target": "Bruno Paul"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "408",
+      "size": 1.0,
+      "source": "Gustav Friedrich Hartlaub",
+      "target": "Kunsthalle Mannheim"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,117,77)",
+      "id": "379",
+      "size": 1.0,
+      "source": "Hans Fischer-Schuppach",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,152,178)",
+      "id": "82",
+      "size": 1.0,
+      "source": "Hanna Nagel",
+      "target": "Eva Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "60",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Maria Rothe"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,149,101)",
+      "id": "72",
+      "size": 1.0,
+      "source": "Heinz Ohff",
+      "target": "Heidelberger Tageblatt"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "421",
+      "size": 1.0,
+      "source": "Pieter Sohl",
+      "target": "Graphisches Kabinett Dr. Hanna Grisebach"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "362",
+      "size": 1.0,
+      "source": "Edwin Neyer",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "380",
+      "size": 1.0,
+      "source": "Horst Skodlerrak",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "26",
+      "size": 1.0,
+      "source": "Brigitte Heiliger-Kramm",
+      "target": "Gracia-Maria Kaus"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "269",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Monika Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,100,231)",
+      "id": "282",
+      "size": 1.0,
+      "source": "Nicola Moufang",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "472",
+      "size": 1.0,
+      "source": "Graphisches Kabinett Dr. Hanna Grisebach",
+      "target": "Hanna Grisebach"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,100,231)",
+      "id": "102",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Ilona Scharff"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,65,130)",
+      "id": "340",
+      "size": 1.0,
+      "source": "Erich Kuhn",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,117,77)",
+      "id": "69",
+      "size": 1.0,
+      "source": "Hanna Nagel",
+      "target": "Gustav Friedrich Hartlaub"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "308",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Wolfgang Fortner"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "309",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Wolfgang Fortner"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "215",
+      "size": 1.0,
+      "source": "Joachim Karsch",
+      "target": "Florian Karsch"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,100,231)",
+      "id": "49",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Charlotte Joeres"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "275",
+      "size": 1.0,
+      "source": "Nicola Moufang",
+      "target": "Eugen Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "389",
+      "size": 1.0,
+      "source": "Ida Kerkovius",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(127,117,77)",
+      "id": "397",
+      "size": 1.0,
+      "source": "Kurpf\u00e4lzisches Museum Heidelberg",
+      "target": "Georg Poensgen"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,100,231)",
+      "id": "273",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Fritz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "25",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Brigitte Heiliger-Kramm"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "47",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Rudolf Steinbach"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "413",
+      "size": 1.0,
+      "source": "Walter Passarge",
+      "target": "Kunsthalle Mannheim"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "453",
+      "size": 1.0,
+      "source": "Irene Fischer-Nagel",
+      "target": "Hans Fischer-Schuppach"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,149,101)",
+      "id": "73",
+      "size": 1.0,
+      "source": "Hanna Nagel",
+      "target": "Heidelberger Tageblatt"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,100,231)",
+      "id": "48",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Charlotte Joeres"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,100,231)",
+      "id": "152",
+      "size": 1.0,
+      "source": "Margret Moufang",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,97,154)",
+      "id": "42",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Hanna Nagel"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "64",
+      "size": 1.0,
+      "source": "Willibald Kramm",
+      "target": "Leopold Stahl"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "457",
+      "size": 1.0,
+      "source": "Galerie Nierendorf",
+      "target": "Lovis Corinth"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,152,178)",
+      "id": "218",
+      "size": 1.0,
+      "source": "Leopold Zahn",
+      "target": "Georg Poensgen"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(94,146,127)",
+      "id": "209",
+      "size": 1.0,
+      "source": "Josef Scharl",
+      "target": "Leopold Zahn"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "154",
+      "size": 1.0,
+      "source": "Margret Moufang",
+      "target": "Eugen Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "396",
+      "size": 1.0,
+      "source": "Hanna Grisebach",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "260",
+      "size": 1.0,
+      "source": "Eva Moufang",
+      "target": "Georg Alexander Math\u00e9y"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "147",
+      "size": 1.0,
+      "source": "Eva Moufang",
+      "target": "Eugen Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "163",
+      "size": 1.0,
+      "source": "Josef Scharl",
+      "target": "Albert Einstein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "443",
+      "size": 1.0,
+      "source": "Tom A. Noonan",
+      "target": "Amerikahaus Heidelberg/DAI"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "62",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Edwin Kuntz"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "311",
+      "size": 1.0,
+      "source": "Ewald Lindemann",
+      "target": "Willibald Kramm"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(177,111,26)",
+      "id": "376",
+      "size": 1.0,
+      "source": "Georg Ehrlich",
+      "target": "Heidelberger Kunstverein"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "176",
+      "size": 1.0,
+      "source": "William E. Dietz",
+      "target": "Tom A. Noonan"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "268",
+      "size": 1.0,
+      "source": "Deutsche Werkst\u00e4tten Hellerau",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "465",
+      "size": 1.0,
+      "source": "Adolf Hitler",
+      "target": "NSDAP"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "291",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Carl Orff"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(255,85,53)",
+      "id": "412",
+      "size": 1.0,
+      "source": "Gustav Seitz",
+      "target": "Kunsthalle Mannheim"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "471",
+      "size": 1.0,
+      "source": "Albert Speer",
+      "target": "NSDAP"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "108",
+      "size": 1.0,
+      "source": "Wilhelm Moufang jun.",
+      "target": "Ilona Scharff"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "35",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Minnie Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(99,138,0)",
+      "id": "206",
+      "size": 1.0,
+      "source": "Meta Nierendorf",
+      "target": "Joachim Karsch"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(45,100,231)",
+      "id": "223",
+      "size": 1.0,
+      "source": "Ella Zahn",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "279",
+      "size": 1.0,
+      "source": "Fritz Moufang",
+      "target": "Wilhelm Moufang jun."
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "442",
+      "size": 1.0,
+      "source": "William E. Dietz",
+      "target": "Amerikahaus Heidelberg/DAI"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,45,207)",
+      "id": "352",
+      "size": 1.0,
+      "source": "Karin Bruns",
+      "target": "Franz Moufang"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(0,0,0)",
+      "id": "422",
+      "size": 1.0,
+      "source": "Franz Moufang",
+      "target": "Franz Radziwill"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(90,155,255)",
+      "id": "104",
+      "size": 1.0,
+      "source": "Nicola Moufang",
+      "target": "Ilona Scharff"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(160,103,179)",
+      "id": "143",
+      "size": 1.0,
+      "source": "Bruno Paul",
+      "target": "NSDAP"
+    },
+    {
+      "attributes": {},
+      "color": "rgb(230,52,104)",
+      "id": "477",
+      "size": 1.0,
+      "source": "Reichskammer der bildenden K\u00fcnste",
+      "target": "Albert Speer"
+    }
+  ],
+  "nodes": [
+    {
+      "attributes": {
+        "kurzinformation": "Ilona Scharff war eine ungarische Schauspielerin, die unter dem Namen Helene Ritscher bekannt war. 1912 wurde sie Hofschauspielerin am M\u00fcnchener Staatstheater, hatte Engagements in Wien und Berlin. 1919 Heirat mit Edwin Scharff und Aufgabe der Schauspielerei.",
+        "lebensdaten": "1888-1964",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(90,155,255)",
+      "id": "Ilona Scharff",
+      "label": "Ilona Scharff",
+      "size": 11.860465049743652,
+      "x": 2011.4749755859375,
+      "y": 6028.6845703125
+    },
+    {
+      "attributes": {
+        "lebensdaten": "1909-1974",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(255,85,53)",
+      "id": "Edzard Hobbing",
+      "label": "Edzard Hobbing",
+      "size": 10.465116500854492,
+      "x": -4053.49267578125,
+      "y": -3767.026123046875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Wolfgang Frommel war Schriftsteller, Sohn des Theologen Otto Frommel und \u00e4lterer Bruder des Komponisten Gerhard Frommel. Er hatte in Heidelberg die Schule besucht und dort Wilhelm Fraenger kennengelernt. An der Universit\u00e4t Heidelberg studierte er sodann Germanistik, Theologie und P\u00e4dagogik.\u00a0",
+        "lebensdaten": "1902-1986",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(0,149,101)",
+      "id": "Wolfgang Frommel",
+      "label": "Wolfgang Frommel",
+      "size": 10.465116500854492,
+      "x": 9624.6240234375,
+      "y": -4465.19482421875
+    },
+    {
+      "attributes": {
+        "lebensdaten": "1880-1966",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(255,85,53)",
+      "id": "Hans Purrmann",
+      "label": "Hans Purrmann",
+      "size": 10.465116500854492,
+      "x": -7641.4892578125,
+      "y": -2944.151611328125
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Eugen Moufang war promovierter Jurist und Rechtsanwalt in eigener Kanzlei in Heidelberg. Verheiratet mit Mabel Moufang, geb. Beck, verwitwete Wellensieck.",
+        "lebensdaten": "1889-1967",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(90,155,255)",
+      "id": "Eugen Moufang",
+      "label": "Eugen Moufang",
+      "size": 15.581396102905273,
+      "x": 3315.375244140625,
+      "y": 4387.291015625
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Walter Passarge war ein deutscher Kunsthistoriker und Leiter der Kunsthalle Mannheim zwischen 1936 und 1958.",
+        "lebensdaten": "1898-1958",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(255,85,53)",
+      "id": "Walter Passarge",
+      "label": "Walter Passarge",
+      "size": 12.325581550598145,
+      "x": -828.3525390625,
+      "y": -2019.0792236328125
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Wolfgang Fortner war Komponist, Kompositionslehrer und Dirigent. Er schloss sein Studium in Leipzig 1931 mit dem Staatsexamen f\u00fcr das h\u00f6here Lehramt ab und \u00fcbernahm dann eine Dozentur f\u00fcr Musiktheorie am Evangelischen Kirchenmusikalischen Institut Heidelberg. 1935/1936 gr\u00fcndete Fortner das Heidelberger Kammerorchester, mit dem er auch eigene Kompositionen sowie Musik von Zeitgenossen auff\u00fchrte. Er \u00fcbernahm zudem bis 1939 die Leitung des Bannorchesters der Hitler-Jugend Heidelberg, ein Streichorchester jugendlicher Laien. Nach Kriegsende wurde Fortner bei der Entnazifizierung als Mitl\u00e4ufer eingestuft und war nicht vom Berufsverbot betroffen. Er z\u00e4hlte1946 zum Kreis der Gr\u00fcnder der Kranichsteiner (sp\u00e4ter: Darmst\u00e4dter) Ferienkurse f\u00fcr Neue Musik. Ab 1954 hatte er eine Professor f\u00fcr Komposition inne, zun\u00e4chst an der Nordwestdeutschen Musikakademie in Detmold, ab 1957 bis zur Emeritierung im Jahre 1973 an der Staatlichen Hochschule f\u00fcr Musik in Freiburg im Breisgau. Zu seinem 70. Geburtstag 1977 erhielt er das Gro\u00dfe Bundesverdienstkreuz mit Stern und die Ehrendoktorw\u00fcrde der Universit\u00e4ten Freiburg und Heidelberg.",
+        "lebensdaten": "1907-1987",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Wolfgang Fortner",
+      "label": "Wolfgang Fortner",
+      "size": 11.39534854888916,
+      "x": -908.82421875,
+      "y": 2709.498291015625
+    },
+    {
+      "attributes": {
+        "lebensdaten": "1913-1984",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(255,85,53)",
+      "id": "Edwin Neyer",
+      "label": "Edwin Neyer",
+      "size": 10.465116500854492,
+      "x": -5254.59814453125,
+      "y": -2326.85107421875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Brigitte Heiliger-Kramm war Tochter von Willibald Kramm, deutsche K\u00fcnstlerin.",
+        "lebensdaten": "1919-2001",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Brigitte Heiliger-Kramm",
+      "label": "Brigitte Heiliger-Kramm",
+      "size": 13.720930099487305,
+      "x": 2306.53515625,
+      "y": -6467.14892578125
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Hanna Nagel war eine deutsche K\u00fcnstlerin, die von 1927 bis 1933 ein gesellschaftsskritisches Fr\u00fchwerk im Stile der Neuen Sachlichkeit schuf, bevor sie zu ihrem charakteristischen veristischen Stil fand, der auch surrealistische Einfl\u00fcsse aufweist. Ihr Werk umfasst vor allem Grafik und Illustrationen sowie einige \u00d6lgem\u00e4lde.",
+        "lebensdaten": "1907-1975",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(0,149,101)",
+      "id": "Hanna Nagel",
+      "label": "Hanna Nagel",
+      "size": 18.372093200683594,
+      "x": 7925.306640625,
+      "y": -2676.83935546875
+    },
+    {
+      "attributes": {
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(255,85,53)",
+      "id": "Kunsthalle Mannheim",
+      "label": "Kunsthalle Mannheim",
+      "size": 12.790698051452637,
+      "x": 3145.670166015625,
+      "y": -2130.071044921875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Gerhard Frommel war Komponist, Musikp\u00e4dagoge und Musikschriftsteller, Sohn des Theologen Otto Frommel und j\u00fcngerer Bruder des Schriftstellers Gerhard Frommel. Er wuchs in Heidelberg auf. Obgleich er nach eigenen Aussagen nach 1934 das nationalsozialistische Regime anlehnte, wurde er von der Kreispropagandaleitung der NSDAP gef\u00f6rdert und im August 1944 in die von Adolf Hitler genehmigte Gottbegnadeten-Liste aufgenommen, was ihn von einem Fronteinsatz sch\u00fctzte. Nach dem Zweiten Weltkrieg war er als Kompositionslehrer an den Hochschulen in Trossingen und Heidelberg, ab 1956 an der Musikhochschule Stuttgart und im Rahmen einer Professur schlie\u00dflich von 1960 bis 1971 an der Musikhochschule in Frankfurt am Main t\u00e4tig.\u00a0",
+        "lebensdaten": "1906-1984",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(0,149,101)",
+      "id": "Gerhard Frommel",
+      "label": "Gerhard Frommel",
+      "size": 10.930233001708984,
+      "x": 7055.66015625,
+      "y": -3559.238525390625
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Gustav Friedrich Hartlaub war ein deutscher Kunsthistoriker und Direktor der Kunsthalle Mannheim (1923-1933).  Von 1949 bis 1959 war Hartlaub Erster Vorsitzender des Heidelberger Kunstvereins und arbeitete eng mit Franz Moufang zusammen.",
+        "lebensdaten": "1884-1963",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(255,85,53)",
+      "id": "Gustav Friedrich Hartlaub",
+      "label": "Gustav Friedrich Hartlaub",
+      "size": 13.720930099487305,
+      "x": 676.337890625,
+      "y": -2735.681396484375
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Hans-Karl Mougang war Sohn von Franz und Margret Moufang, Physiker.",
+        "lebensdaten": "1940-2019",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Hans-Karl Moufang",
+      "label": "Hans-Karl Moufang",
+      "size": 11.39534854888916,
+      "x": 1343.63623046875,
+      "y": -5414.3798828125
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Solomon R. Guggenheim war ein US-Amerikanischer Industrieller und Gr\u00fcnder des Guggenheim Museums New York. Er stand in engem Kontakt mit Hilla von Rebay und kaufte Werke der Nierendorf Gallery New York an.",
+        "lebensdaten": "1861-1949",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(99,138,0)",
+      "id": "Solomon R. Guggenheim",
+      "label": "Solomon R. Guggenheim",
+      "size": 11.39534854888916,
+      "x": -7809.54931640625,
+      "y": 5597.40869140625
+    },
+    {
+      "attributes": {
+        "lebensdaten": "1901-1979",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(255,85,53)",
+      "id": "Eduard Bargheer",
+      "label": "Eduard Bargheer",
+      "size": 10.930233001708984,
+      "x": -6151.7412109375,
+      "y": -7031.96826171875
+    },
+    {
+      "attributes": {
+        "lebensdaten": "1906-1969",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(255,85,53)",
+      "id": "Gustav Seitz",
+      "label": "Gustav Seitz",
+      "size": 11.860465049743652,
+      "x": -1064.997802734375,
+      "y": -4689.39111328125
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Joachim Karsch war ein deutscher Bildhauer und Graphiker.",
+        "lebensdaten": "1897-1945",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(99,138,0)",
+      "id": "Joachim Karsch",
+      "label": "Joachim Karsch",
+      "size": 11.39534854888916,
+      "x": -5359.2607421875,
+      "y": 2614.5263671875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Gehrard Marcks war Bildhauer und Grafiker. 1919 wurde er an das Staatliche Bauhaus in Weimar berufen; ab 1920 leitete er die Bauhaus-T\u00f6pferei in Dornburg/Saale. Von Lyonel Feininger wurde er dazu inspriert, sich auch mit dem Holzschnitt zu besch\u00e4ftigen.\u00a0Er ist der Onkel von der K\u00fcnstlerin Marie Marks (1922-2014).",
+        "lebensdaten": "1889-1981",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(99,138,0)",
+      "id": "Gerhard Marcks",
+      "label": "Gerhard Marcks",
+      "size": 12.790698051452637,
+      "x": -4396.4375,
+      "y": 1876.8084716796875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "William E. Dietz \u00fcbernahm nach Tom A. Noonan ab 1953 die Leitung des Amerikahauses in Heidelberg.",
+        "lebensdaten": "?-?",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "William E. Dietz",
+      "label": "William E. Dietz",
+      "size": 10.930233001708984,
+      "x": -10257.8369140625,
+      "y": -3499.18115234375
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Nicola Moufang war Jurist, Kunsthistoriker und Kunstsammler, Bruder von Franz, Fritz und Eugen und Wilhelm Moufang. Nicola Moufang war verheiratet mit Eva Moufang, geb. Kase. Er wurde 1913 von der Juristischen Fakult\u00e4t der Universit\u00e4t Heidelberg mit einer Dissertation \u00fcber \"Die strafrechtlichen Bestimmungen des Gesetzes \u00fcber die Sicherung der Bauforderungen\" promoviert. Daran schloss er im Folgejahr eine kunsthistorische Dissertation \u00fcber \"Die Gro\u00dfherzogliche Majolika-Manufaktur in Karlsruhe\" an, mit der er sich f\u00fcr anschlie\u00dfende Leitungsfunktionen der Leitung eben dieser Majolika-Manufaktur (Direktor 1921-1925),\u00a0der K\u00f6niglichen Porzellan-Manufaktur Berlin (Leiter 1925-1929) sowie der Vereinigten Werkst\u00e4tten Berlin (Direktor 1929-1942) qualifizierte. Unter den Nationalsozialisten wurde er zum Sonderbeauftragten des Deutschen Reiches bei der Staatlichen Porzellanmanufaktur S\u00e8vres (Manufacture royale de porcelaine de S\u00e8vres) in Frankreich und der K\u00f6niglichen Porzellan Manufaktur Kopenhagen[ ernannt. Nach dem Zweiten Weltkrieg kehrte er nach Heidelberg zur\u00fcck, wo er\u00a0dem Kurpf\u00e4lzischen Museum unter dessen damaligem Direktor Georg Poensgen eine Reihe von Kunstwerken aus seiner eigenen Sammlung schenkte.",
+        "lebensdaten": "1886-1967",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(90,155,255)",
+      "id": "Nicola Moufang",
+      "label": "Nicola Moufang",
+      "size": 23.953487396240234,
+      "x": 7009.2705078125,
+      "y": 1913.96240234375
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Edwin Scharff war Bildhauer, Medailleur und Grafiker. Er studierte von 1903 bis 1907 an der Kunstgewerbeschule, sp\u00e4ter der K\u00f6niglichen Akademie der K\u00fcnste in M\u00fcnchen. 1923 erhielt er eine Professur an der Hochschule f\u00fcr Bildende K\u00fcnste in Berlin, 1931 an die Preu\u00dfische Akademie der K\u00fcnste. 1919 Heirat mit (Ilona) Helene Ritscher. 1933 Versetzung an die D\u00fcsseldorfer Kunstakademie, ab 1946 Landeskunstschule in Hamburg.\u00a0",
+        "lebensdaten": "1887-1955",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(90,155,255)",
+      "id": "Edwin Scharff",
+      "label": "Edwin Scharff",
+      "size": 19.767440795898438,
+      "x": 8564.0361328125,
+      "y": 2782.109375
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Die Br\u00fcder Josef und Karl Nierendorf gr\u00fcndeten 1920 die Galerie Nierendorf in K\u00f6ln, die sich auf expressionistische K\u00fcnstler*innen der Moderne spezialisierte. 1936 er\u00f6ffnete Karl Nierendorf eine D\u00e9pendance in New York unter dem Namen Nierendorf Gallery. Florian Karsch, der Stiefsohn von Josef Nierendorf, er\u00f6ffnete 1955 die Galerie als Galerie Meta Nierendorf wieder und 1963 wurde sie nach Berlin verlegt. Der Adoptivsohn von Florian Karsch, Erg\u00fcn \u00d6zdemir-Karsch f\u00fchrt die Galerie Nierendorf bis heute weiter.",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(99,138,0)",
+      "id": "Galerie Nierendorf",
+      "label": "Galerie Nierendorf",
+      "size": 15.581396102905273,
+      "x": -3910.402587890625,
+      "y": 4030.967041015625
+    },
+    {
+      "attributes": {
+        "lebensdaten": "1893-1984",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Franz Moufang",
+      "label": "Franz Moufang",
+      "size": 50.0,
+      "x": -653.6260986328125,
+      "y": 107.16262817382812
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Das Lokal gilt als der \u00e4lteste Studentenjazzclub Deutschlands. In einem Keller in der Kr\u00e4mergasse der Heidelberger Altstadt gelegen, wurde er im Februar 1954 von Heidelberger Studenten als Alternative zu den bestehenden studentischen Verbindungen, Vereinigungen und deren Veranstaltungen gegr\u00fcndet. Ber\u00fchmtheiten des Jazz wie Louis Armstrong, Ella Fitzgerald, Dizzy Gillespie, Lionel Hampton oder Oscar Peterson performten nach Auftritten in den Heidelberger US-Kasernen auch im Cave 54. Zudem waren auch US-amerikanische Schriftsteller wie James Baldwin oder Thornton Wilder dort mit Vortr\u00e4ge und f\u00fcr Diskussionen zu Gast und machten das Lokal so auch zu einem Ort \u00a0der kritischen Auseinandersetzung mit der deutschen Vergangenheit vor 1945.\u00a0Die W\u00e4nde des Jazzkllers wurden von den dort ebenfalls verkehrenden K\u00fcnstlerinnen und K\u00fcnstlern bemalt.",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Cave 54",
+      "label": "Cave 54",
+      "size": 10.465116500854492,
+      "x": 3443.97314453125,
+      "y": -8076.06689453125
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Hans Fischer-Schuppach war ein deutscher Maler, Zeichner und Illustrator. 1931 heiratete er seine Kommilitonin Hanna Nagel, mit der er 1938 eine Tochter, Irene Fischer-Nagel, bekam. Nagel und Fischer-Schuppach lebten ab 1946 getrennt, beide in Heidelberg.\u00a0",
+        "lebensdaten": "1906-1987",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(0,149,101)",
+      "id": "Hans Fischer-Schuppach",
+      "label": "Hans Fischer-Schuppach",
+      "size": 12.790698051452637,
+      "x": 6137.423828125,
+      "y": -4278.22900390625
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Maria Rothe ist Ehefrau von Wolfgang Rothe, Galeristin. Gemeinsam mit ihrem Mann gr\u00fcndete sie 1958 den ersten Grafikverlag der Bundesrepublik Deutschland (Edition Rothe), 1960 dann die Galerie Rothe, die zun\u00e4chst in Heidelberg ans\u00e4ssig war, sp\u00e4ter nach Frankfurt am Main umzog.",
+        "lebensdaten": "1932-",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Maria Rothe",
+      "label": "Maria Rothe",
+      "size": 10.465116500854492,
+      "x": -3546.164794921875,
+      "y": 67.7799072265625
+    },
+    {
+      "attributes": {
+        "lebensdaten": "1890-1971",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(99,138,0)",
+      "id": "Emy Roeder",
+      "label": "Emy Roeder",
+      "size": 10.0,
+      "x": -3982.608154296875,
+      "y": 6377.337890625
+    },
+    {
+      "attributes": {
+        "lebensdaten": "1909-1981",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(255,85,53)",
+      "id": "HAP Grieshaber",
+      "label": "HAP Grieshaber",
+      "size": 11.39534854888916,
+      "x": -2980.763427734375,
+      "y": -6448.3701171875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Hans Pfitzner heiratete Mali Stoll, geborene Soherr, 1939 in zweiter Ehe.",
+        "lebensdaten": "1893\u20131963",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(90,155,255)",
+      "id": "Mali Pfitzner",
+      "label": "Mali Pfitzner",
+      "size": 10.0,
+      "x": 4262.36279296875,
+      "y": 5731.03857421875
+    },
+    {
+      "attributes": {
+        "lebensdaten": "1926-1978",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(255,85,53)",
+      "id": "Hans Nagel",
+      "label": "Hans Nagel",
+      "size": 10.930233001708984,
+      "x": -1121.30029296875,
+      "y": -3956.3291015625
+    },
+    {
+      "attributes": {
+        "lebensdaten": "?-?",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(0,149,101)",
+      "id": "Louise von Jakimow",
+      "label": "Louise von Jakimow",
+      "size": 10.465116500854492,
+      "x": 5413.158203125,
+      "y": -7103.04833984375
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Tom A. Noonan war als Cultural Officer des Office of the U.S. High Commission for Germany bis 1953 Leiter des Amerikahaus Heidelberg. Gemeinsam mit seiner Frau Viktoria war er im Hause Moufang zu Gast.",
+        "lebensdaten": "1914-1970",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Tom A. Noonan",
+      "label": "Tom A. Noonan",
+      "size": 11.39534854888916,
+      "x": -9713.619140625,
+      "y": -864.1765747070312
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Georg Ehrlich war ein \u00f6sterreichischer Maler und Bildhauer und stand in engem Briefkontakt mit Franz Moufang, der auch Werke von Ehrlich sammelte. Aufgrund seiner j\u00fcdischen Herkunft musste Ehrlich seine \u00d6sterreich verlassen und emigrierte 1937 nach England. Dar\u00fcber hinaus hatte er u.a. Ausstellungen in New York, wo er Josef Scharl kennenlernte.",
+        "lebensdaten": "1897-1966",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(99,138,0)",
+      "id": "Georg Ehrlich",
+      "label": "Georg Ehrlich",
+      "size": 10.930233001708984,
+      "x": -6096.74755859375,
+      "y": 1438.811767578125
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Meta Nierendorf geb. Correns war Buchh\u00e4ndlerin, Galeristin und Kunsth\u00e4ndlerin. Sie war die Frau des K\u00fcnstlers Joachim Karsch und sp\u00e4ter die Frau von Josef Nierendorf. ",
+        "lebensdaten": "1899-1981",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(99,138,0)",
+      "id": "Meta Nierendorf",
+      "label": "Meta Nierendorf",
+      "size": 11.860465049743652,
+      "x": -7829.796875,
+      "y": 2921.40869140625
+    },
+    {
+      "attributes": {
+        "lebensdaten": "1933-2018",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(255,85,53)",
+      "id": "Pieter Sohl",
+      "label": "Pieter Sohl",
+      "size": 11.39534854888916,
+      "x": -5748.7041015625,
+      "y": -6164.732421875
+    },
+    {
+      "attributes": {
+        "lebensdaten": "1927-2015",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(255,85,53)",
+      "id": "Beate Kuhn",
+      "label": "Beate Kuhn",
+      "size": 11.39534854888916,
+      "x": -7438.064453125,
+      "y": -4046.826171875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Hanna Grisebach war eine deutsche Kunsthistorikerin, Galeristin und Schriftstellerin, die 1923 bei August Grisebach mit einer Arbeit \u00fcber das holl\u00e4ndische Stillleben promovierte und ihn im Folgejahr heiratete.\u00a01930 zogen sie nach Heidelberg, wo August Grisebach eine Professur f\u00fcr Kunstgeschichte antrat. 1937 von den Nazis zwangsemeritiert, kehrte Grisebach 1946 nach Heidelberg zur\u00fcck. Nach seinem Tod 1950 er\u00f6ffnete Hanna Grisebach im Folgejahr in Heidelberg das \"Graphische Kabinett Dr. Grisebach\". In ihm stellte sie zahlreiche, zuvor teilweise \u00a0verfemte Maler und Bildhauer aus, darunter Gerhard Marcks. Hanna Grisebach leitete ihre Galerie bis 1973. Sie verfasste\u00a01957 einen Artikel \u00fcber die Sammlung von Franz Moufang, der in dem Weihnachts-Doppelheft der Zeitschrift \"Das Kunstwerk\" erschien.",
+        "lebensdaten": "1899-1988",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(255,85,53)",
+      "id": "Hanna Grisebach",
+      "label": "Hanna Grisebach",
+      "size": 13.720930099487305,
+      "x": -1674.208251953125,
+      "y": -3348.540283203125
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Enkelkind von Willibald Kramm,Tochter der K\u00fcnstlerin Brigitte Heiliger-Kramm und des Malers Max Kaus , deutsche Schauspielerin.",
+        "lebensdaten": "1947-",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Gracia-Maria Kaus",
+      "label": "Gracia-Maria Kaus",
+      "size": 10.0,
+      "x": -1137.4775390625,
+      "y": -7123.34912109375
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Wilhelm Moufang sen. war promovierter Jurist und Rechtsanwalt in eigener Kanzlei in Heidelberg.\u00a0",
+        "lebensdaten": "1852-1942",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(90,155,255)",
+      "id": "Wilhelm Moufang sen.",
+      "label": "Wilhelm Moufang sen.",
+      "size": 11.860465049743652,
+      "x": 5601.783203125,
+      "y": 3233.559814453125
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Ernst Krenek war ein \u00f6sterreichischer Komponist, dessen Werke nach der Macht\u00fcbernahme 1933 von den Nationalsozialisten als \"entartet\" verboten wurden. Auf einer USA-Reise erfuhr Krenek im M\u00e4rz 1938 vom \"Anschluss\" \u00d6sterreichs an das nationalsozialistische Deutschland. Er entschied sich daher, in den USA zu bleiben, 1945 wurde er amerikanischer Staatsb\u00fcrger. Krenek pflegte einen intensiven Austausch mit den f\u00fchrenden K\u00fcnstlern und Intellektuellen seiner Zeit wie Theodor W. Adorno, Thomas Mann, Rainer Maria Rilke, Arnold Sch\u00f6nberg und Igor Strawinsky.",
+        "lebensdaten": "1900-1991",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Ernst Krenek",
+      "label": "Ernst Krenek",
+      "size": 10.0,
+      "x": -8057.873046875,
+      "y": 1321.317138671875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Die Br\u00fcder Josef und Karl Nierendorf gr\u00fcndeten 1920 die Galerie Nierendorf in K\u00f6ln, die sich auf expressionistische K\u00fcnstler*innen der Moderne spezialisierte. \nJosef Nierendorf verlegte die Galerie 1925 f\u00fcr ein Jahr nach D\u00fcsseldorf. Ab 1925 \u00fcbernahm Karl Nierendorf das Graphische Kabinett von I.B. Neumann in Berlin und gr\u00fcndete daraus die Galerie Neumann-Nierendorf, die ab 1933 unter dem Namen Galerie Nierendorf weitergef\u00fchrt wurde. 1936 er\u00f6ffnete Karl Nierendorf eine D\u00e9pendance in New York unter dem Namen Nierendorf Gallery, w\u00e4hrend Josef die Berliner Galerie bis 1939 alleine weiterf\u00fchrte.",
+        "lebensdaten": "1898\u20131949",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(99,138,0)",
+      "id": "Josef Nierendorf",
+      "label": "Josef Nierendorf",
+      "size": 12.790698051452637,
+      "x": -8580.306640625,
+      "y": 4652.75244140625
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Otto Schmidt war Bankdirektor in Berlin, Magdeburg und ab 1937 in M\u00fcnster. Schmidt war sowohl Freund, Sammler und M\u00e4zen von Josef Scharl und half ihm finanziell bei der Emigration nach New York. Zu Beginn erwarb Schmidt Werke von Scharl durch die Galerie Nierendorf. Franz Moufang sandte Schmidt im Auftrag Scharls\u00a0im Juli 1950 eine der beiden erhaltenen Portr\u00e4tdarstellungen von Albert Einstein zu.",
+        "lebensdaten": "1881-1954",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(99,138,0)",
+      "id": "Otto Schmidt",
+      "label": "Otto Schmidt",
+      "size": 11.860465049743652,
+      "x": -7381.47216796875,
+      "y": 3830.263916015625
+    },
+    {
+      "attributes": {
+        "kurzinformation": "1869 in Heidelberg gegr\u00fcndet. 1930 \u00fcbernahm der Heidelberger Kunsthistoriker August Grisebach bis 1933 den Vorsitz des Vereins; unter ihm wurde dieser nach der Nazizeit und dem Ende des Zweiten Weltkriegs auch Ende 1946 neu gegr\u00fcndet. Zu seinen Nachfolgern z\u00e4hlten u.a. Gustav Friedrich Hartlaub und Georg Poensgen. In den 40er und 50er Jahren in der Gartenhalle des Kurpf\u00e4lzischen Museums untergebracht, bezog der Verein\u00a01990 ein von dem Architekten Dieter Quast entworfenes neues Geb\u00e4ude, das architektonisch mit dem Kurpf\u00e4lzischen Museum verbunden ist.\u00a0",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(255,85,53)",
+      "id": "Heidelberger Kunstverein",
+      "label": "Heidelberger Kunstverein",
+      "size": 25.34883689880371,
+      "x": -3178.010009765625,
+      "y": -2723.8095703125
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Die Ausstellung war eine der bedeutenden Progagandaschauen w\u00e4hrend der NS-Zeit.",
+        "lebensdaten": "1937",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(90,155,255)",
+      "id": "Reichsausstellung \"Schaffendes Volk\", D\u00fcsseldorf, 1937",
+      "label": "Reichsausstellung \"Schaffendes Volk\", D\u00fcsseldorf, 1937",
+      "size": 10.465116500854492,
+      "x": 8031.20751953125,
+      "y": 3861.77294921875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Geborene Kase - sie war die Ehefrau von Nicola Moufang.",
+        "lebensdaten": "1884-1963",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(90,155,255)",
+      "id": "Eva Moufang",
+      "label": "Eva Moufang",
+      "size": 14.186046600341797,
+      "x": 6473.42431640625,
+      "y": -1313.568603515625
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Charlotte Joeres war eine deutsche Theaterschauspielerin, H\u00f6rspielsprecherin und Synchronsprecherin. Zahlreiche bedeutende Film- und Fernsehrollen.  Schweste der Konzertpianistin Margret Moufang, geb. Joeres.",
+        "lebensdaten": "1916-2007",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(90,155,255)",
+      "id": "Charlotte Joeres",
+      "label": "Charlotte Joeres",
+      "size": 11.860465049743652,
+      "x": 2941.74853515625,
+      "y": 875.3606567382812
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Hans Pfitzner war Komponist und Dirigent.\u00a0Franz und Margret Moufang verband eine enge Freundschaft mit Pfitzner und dessen Ehefrau Mali Pfitzner, geb. Soherr. Zugleich waren beide Paare auch eng mit dem Bildhauer dem Bildhauer Igor von Jakimov befreundet, der 1939 im Auftrag der Frankfurter Oper eine B\u00fcste Pfitzners ausf\u00fchrte, zu der Franz Moufang das Gipsmodell besass.",
+        "lebensdaten": "1869-1949",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(0,149,101)",
+      "id": "Hans Pfitzner",
+      "label": "Hans Pfitzner",
+      "size": 11.39534854888916,
+      "x": 8884.0654296875,
+      "y": -1914.2528076171875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Klaus Staeck ist seit 1956 in Heidelberg ans\u00e4ssiger Grafikdesigner, Karikaturist, Plakatk\u00fcnstler und Jurist. 1957 begann er hier sein Jura-Studium. 1962 organisierte er seine erste politische Demonstration in Heidelberg. Ab 1968 arbeitete er Joseph Beuys zusammen. Seit Anfang der 1970er Jahre ist Klaus Staeck als Grafiker im Bereich der Politsatire t\u00e4tig. Gemeinsam mit anderen organisierte er 1969 in Heidelberg die \"intermedia 69\", bei der zahlreiche internationale Avantgarde-K\u00fcnstler Aktionen in der Stadt durchf\u00fchrten. 2006 bis 2015 amtierte Staeck als Pr\u00e4sident der Berliner Akademie der K\u00fcnste.",
+        "lebensdaten": "1938-",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Klaus Staeck",
+      "label": "Klaus Staeck",
+      "size": 10.465116500854492,
+      "x": -6637.9521484375,
+      "y": 261.7176513671875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Aloys Kontarsky war Pianist, der solistisch und kammermusikalisch auftrat. Gemeinsam mit seinem Bruder Alfons bildete er das international renommierte Kontarsky-Duo, das zahlreiche Werke zur Ur- bzw. Erstauff\u00fchrung brachte. Gemeinsam mit dem j\u00fcngeren Bruder Bernhard traten sie gelegentlich auch als Klaviertrio auf.",
+        "lebensdaten": "1931-2017",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Aloys Kontarsky\u00a0",
+      "label": "Aloys Kontarsky\u00a0",
+      "size": 10.930233001708984,
+      "x": 2708.422119140625,
+      "y": -227.5906219482422
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Minnie Moufang war Ehefrau von Wilhelm Moufang jun., K\u00fcnstlerin.",
+        "lebensdaten": "1913-2003",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Minnie Moufang",
+      "label": "Minnie Moufang",
+      "size": 10.930233001708984,
+      "x": 5184.6279296875,
+      "y": -265.61016845703125
+    },
+    {
+      "attributes": {
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(90,155,255)",
+      "id": "Landeskunstschule Hamburg",
+      "label": "Landeskunstschule Hamburg",
+      "size": 10.0,
+      "x": 8747.8359375,
+      "y": 5211.49365234375
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Benno Selcke war Cultural Officer des HICOG (High Commission for Occupied Germany) und Leiter des Amerikahauses in Frankfurt am Main. Bis 1949 fielen die Amerikah\u00e4user in den Verantwortungsbereich der Milit\u00e4rregierungen der amerikanischen Besatzungszone. Die urspr\u00fcngliche Bezeichnung dieser Institutionen als \"United States Information Center\" wich rasch dem eing\u00e4ngigeren Namen \"Amerikahaus.\"\u00a0",
+        "lebensdaten": "?-?",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Benno Selcke",
+      "label": "Benno Selcke",
+      "size": 11.39534854888916,
+      "x": -1206.7750244140625,
+      "y": 6720.27978515625
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Die Reichskunstkammer war eine von sieben Institutionen der Reichskulturkammer, um die Bildende Kunst w\u00e4hrend des NS-Staates zu f\u00f6rdern. Sie fungierte als Kontrollorgan im Zuge der Gleichschaltung der K\u00fcnstler*innen.",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(230,52,104)",
+      "id": "Reichskammer der bildenden K\u00fcnste",
+      "label": "Reichskammer der bildenden K\u00fcnste",
+      "size": 11.860465049743652,
+      "x": 13466.203125,
+      "y": 1717.609619140625
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Georg Poensgen war ein deutscher Kunsthistoriker und Direktor des Kurpf\u00e4lzischen Museums Heidelberg (1948-1964) sowie Erster Vorsitzender des Heidelberger Kunstvereins (1964-1968).\u00a0",
+        "lebensdaten": "1898-1974",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(0,149,101)",
+      "id": "Georg Poensgen",
+      "label": "Georg Poensgen",
+      "size": 13.720930099487305,
+      "x": 6023.72607421875,
+      "y": -2344.45166015625
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Klaus Mugdan studierte erst (1931-1935) Medizin, dann (1936-1942) Kunstgeschichte, Arch\u00e4ologie und Literaturgeschichte in Heidelberg. Dissertation \u00fcber \"Untersuchungen \u00fcber das wertende Verhalten zum Kunstwerk im fr\u00fchen Mittelalter\". Ab 1948 am Kurpf\u00e4lzischen Museum Heidelberg angestellt, 1964-1978 als dessen Direktor t\u00e4tig.",
+        "lebensdaten": "1913-2003",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(255,85,53)",
+      "id": "Klaus Mugdan",
+      "label": "Klaus Mugdan",
+      "size": 11.860465049743652,
+      "x": -819.618408203125,
+      "y": -6004.619140625
+    },
+    {
+      "attributes": {
+        "kurzinformation": "1883 gegr\u00fcndet, erschien die Zeitung\u00a0bis zum 31. Dezember 1982.",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(0,149,101)",
+      "id": "Heidelberger Tageblatt",
+      "label": "Heidelberger Tageblatt",
+      "size": 10.465116500854492,
+      "x": 7851.44189453125,
+      "y": -6388.00341796875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Fritz Moufang war Bruder von Nicola, Franz, Eugen und Wilhelm Moufang.",
+        "lebensdaten": "1887-1906",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(90,155,255)",
+      "id": "Fritz Moufang",
+      "label": "Fritz Moufang",
+      "size": 11.860465049743652,
+      "x": 1550.9898681640625,
+      "y": 2739.109375
+    },
+    {
+      "attributes": {
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(255,85,53)",
+      "id": "Graphisches Kabinett Dr. Hanna Grisebach",
+      "label": "Graphisches Kabinett Dr. Hanna Grisebach",
+      "size": 14.186046600341797,
+      "x": -2811.634033203125,
+      "y": -8673.5927734375
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Margret Moufang (geb. Joeres) war Konzertpianistin, Ehefrau von Franz Moufang und Schwester von Charloette Joeres.",
+        "lebensdaten": "1902-1965",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(90,155,255)",
+      "id": "Margret Moufang",
+      "label": "Margret Moufang",
+      "size": 16.511627197265625,
+      "x": 5398.388671875,
+      "y": 4894.2197265625
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Wolfgang Ludwig Heinrich Carl Gurlitt war deutscher Kunsth\u00e4ndler, Kunstsammler, Galerist und Verleger. Er ist der Cousin des Kunsthistorikers Hildebrand Gurlitt. Trotz einer teilweise j\u00fcdischen Abstammung war er w\u00e4hrend der Zeit des Nationalsozialismus im internationalen Kunsthandel an dem Verkauf beschlagnahmter Werke der \"entarteten Kunst\" ins Ausland beteiligt und an der Beschaffung von Werken f\u00fcr das geplante \"F\u00fchrermuseum\" in Linz.",
+        "lebensdaten": "1888-1965",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(230,52,104)",
+      "id": "Wolfgang Gurlitt",
+      "label": "Wolfgang Gurlitt",
+      "size": 12.325581550598145,
+      "x": 13003.86328125,
+      "y": -2169.316162109375
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Karin Bruns (geb. Ross) war Malerin, Grafikerin und B\u00fchnenausstatterin. Seit 1940 schuf sie Modezeichnungen, von 1946 bis 1948 auch f\u00fcr Aenne Burdas Zeitschrift \"Die Frau\". 1968 entwarf sie die Ausstattung f\u00fcr das Ballett \"Der Feuervogel\" der St\u00e4dtischen B\u00fchne Heidelberg, an die sich weitere Ausstattungsentw\u00fcrfe f\u00fcr das Ballett und das Zimmertheater Heidelberg anschlossen. 1945 hatte sie den Maler und Karikaturisten Johnny Bruns (1909\u20131953) geheiratet, aber erst nach dem Tod ihres Ehemanns im Jahr 1953 arbeitete sie auch unter dem Namen Karin Bruns.",
+        "lebensdaten": "1918-1997",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Karin Bruns",
+      "label": "Karin Bruns",
+      "size": 11.39534854888916,
+      "x": -534.4597778320312,
+      "y": -7849.91162109375
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Helga J\u00f6rgens hat die Promotionsarbeit \u00fcber Edwin Scharff geschrieben: Der Bildhauer Edwin Scharff (1887-1955). Untersuchungen zu Leben und Werk, G\u00f6ttingen 1994. Lebt in West Norfolk.",
+        "lebensdaten": "?-?",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Helga J\u00f6rgens",
+      "label": "Helga J\u00f6rgens",
+      "size": 10.465116500854492,
+      "x": 1379.28173828125,
+      "y": 3659.345947265625
+    },
+    {
+      "attributes": {
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(255,85,53)",
+      "id": "GEDOK",
+      "label": "GEDOK",
+      "size": 12.325581550598145,
+      "x": 1101.9736328125,
+      "y": -3721.84716796875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Die Ausstellung \"Entartete Kunst\" fand 1937 in M\u00fcnchen statt und war eine NS-Propagandaausstellung. Die Ausstellung pr\u00e4sentierte als im Dritten Reich \"entartet\" geltende ungegenst\u00e4ndliche, expressionistische und sozialkritische Kunst, sowie Kunst von K\u00fcnstler*innen j\u00fcdischer Absatmmung. Parallel und als Gegenpol fand die \"Erste Gro\u00dfe Deutsche Kunstausstellung\" statt, die die vom NS-Staat gef\u00f6rderte Kunst zeigte. \u00a0\u00a0",
+        "lebensdaten": "Juli bis November 1937",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(230,52,104)",
+      "id": "Ausstellung \"Entartete Kunst\", M\u00fcnchen, 1937",
+      "label": "Ausstellung \"Entartete Kunst\", M\u00fcnchen, 1937",
+      "size": 11.39534854888916,
+      "x": 12975.3583984375,
+      "y": 3358.86572265625
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Leopold Zahn war ein  \u00f6sterreichischer Schriftsteller und promovierter Kunsthistoriker. 1946 gr\u00fcndete er zusammen mit Woldemar Klein die Zeitschrift \"Das Kunstwerk\", eines wichtigen Organs der zeitgen\u00f6ssischen Kunst in Westdeutschland.\u00a0",
+        "lebensdaten": "1890-1970",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(90,155,255)",
+      "id": "Leopold Zahn",
+      "label": "Leopold Zahn",
+      "size": 14.651163101196289,
+      "x": 2327.65625,
+      "y": 2144.172607421875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Hildegard Prytek war eine Mitarbeiterin der Nierendorf Gallery in New York und k\u00fcnstlerische Vertreterin von Josef Scharl. Sie besuchte Franz Moufang mehrmals in Heidelberg.",
+        "lebensdaten": "1908-?",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(99,138,0)",
+      "id": "Hildegard Prytek",
+      "label": "Hildegard Prytek",
+      "size": 13.255813598632812,
+      "x": -4931.4833984375,
+      "y": 5322.81591796875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Benannt nach dem Restaurant \"Gilbert's Goldener Adler\" in Handschuhsheim, in dem sich vor allem die Intellektuellen sowie die K\u00fcnstlerinnen und K\u00fcnstler der Heidelberger Szene zu einer Stammtischrunde trafen. Die Gilbertisten engagierten sich oft politisch, unter anderem, indem sie die Lokalpolitik kritisch kommentierten.\u00a0",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Die Gilbertisten",
+      "label": "Die Gilbertisten",
+      "size": 10.930233001708984,
+      "x": 2375.48193359375,
+      "y": -7480.671875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Willibeld Kramm war K\u00fcnstler der Moderne, der nach Aufenthalten in Berlin 1945 nach Heidelberg zog, wo er, nachdem seine Kunst ab 1933 von den Nationalsozialisten als \"entartet\" eingestuft worden war, den Neubeginn unternahm. Er wurde nun deutschlandweit sehr oft ausgestellt. 1953 fuhr er zum ersten Mal nach Italien, das eine wichtige Inspirationsquelle f\u00fcr ihn wurde: Stadtlandschaften wurden nun sein Hauptthema und 1957 erschien sein Italienisches Skizzenbuch, das in der Heidelberger Kunstszene auf ein gro\u00dfes Echo stie\u00df. Der Maler frequentierte mit seinen Freunden die damals in Heidelberg bekannten Kneipen und Restaurants wie das \"Cave 54\" oder den Treffpunkt der Gilbertisten, das \"Gilbert's Goldener Adler\". Kramm ist f\u00fcr seine Federzeichnungen und \u00d6lgem\u00e4lde bekannt und\u00a0Vater der K\u00fcnstlerin Brigitte Heiliger-Kramm (1919-2001).",
+        "lebensdaten": "1891-1969",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Willibald Kramm",
+      "label": "Willibald Kramm",
+      "size": 24.88372039794922,
+      "x": 560.43212890625,
+      "y": -1507.4481201171875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Monika Moufang ist Tochter Franz und Margret Moufang.",
+        "lebensdaten": "1939-?",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Monika Moufang",
+      "label": "Monika Moufang",
+      "size": 10.0,
+      "x": -1625.8616943359375,
+      "y": 4824.50537109375
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Meta Lindemann war Ehefrau von Ewald Lindemann",
+        "lebensdaten": "?-?",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Meta Lindemann",
+      "label": "Meta Lindemann",
+      "size": 10.930233001708984,
+      "x": 1656.7249755859375,
+      "y": 6614.2529296875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Bruno Paul war Architekt, Illustrator und Karrikaturist, Designer und M\u00f6beldesigner. Studium an der Kunstakademie in Dresden und der Akademie der Bildenden K\u00fcnste in M\u00fcnchen. Arbeiten f\u00fcr u.a. die satirische Wochenzeitschrift \"Simplicissimus\". Gr\u00fcndung der M\u00fcnchner Vereinigten Werkst\u00e4tten f\u00fcr Kunst im Handwerk (1897) und\u00a0ab 1911 Mitarbeit bei den Deutschen Werkst\u00e4tten Hellerau. U. a. ab 1924 Direktor der Vereinigten Staatsschulen f\u00fcr freie und angewandte Kunst. \u00a0\u00a0",
+        "lebensdaten": "1874-1968",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(90,155,255)",
+      "id": "Bruno Paul",
+      "label": "Bruno Paul",
+      "size": 12.790698051452637,
+      "x": 5066.3623046875,
+      "y": 2456.507080078125
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Die Br\u00fcder Josef und Karl Nierendorf gr\u00fcndeten 1920 die Galerie Nierendorf in K\u00f6ln, die sich auf expressionistische K\u00fcnstler*innen der Moderne spezialisierte. \r\nJosef Nierendorf verlegte die Galerie 1925 f\u00fcr ein Jahr nach D\u00fcsseldorf. Ab 1925 \u00fcbernahm Karl Nierendorf das Graphische Kabinett von I.B. Neumann in Berlin und gr\u00fcndete daraus die Galerie Neumann-Nierendorf, die ab 1933 unter dem Namen Galerie Nierendorf weitergef\u00fchrt wurde. 1936 er\u00f6ffnete Karl Nierendorf eine D\u00e9pendance in New York unter dem Namen Nierendorf Gallery, w\u00e4hrend Josef die Berliner Galerie bis 1939 alleine weiterf\u00fchrte.",
+        "lebensdaten": "1889\u20131947",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(99,138,0)",
+      "id": "Karl Nierendorf",
+      "label": "Karl Nierendorf",
+      "size": 13.720930099487305,
+      "x": -5739.2861328125,
+      "y": 4600.27587890625
+    },
+    {
+      "attributes": {
+        "lebensdaten": "1895-1983",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(255,85,53)",
+      "id": "Franz Radziwill",
+      "label": "Franz Radziwill",
+      "size": 10.465116500854492,
+      "x": -6108.95068359375,
+      "y": -1613.654052734375
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Hilla von Rebay war eine Deutsch-amerikanische K\u00fcnstlerin, Sammlerin und M\u00e4zenin sowie Gr\u00fcndungsdirektorin der Solomon R. Guggenheim Foundation in New York. Sie unterst\u00fctzte die gegenstandslose Kunst und abstrakte Malerei und stand in engem Kontakt zu Solomon R. Guggenheim. Sie kaufte Werke der Nierendorf Gallery New York \u00fcber die Mitarbeiterin Hildegard Prytek an. 1948 organisierte sie die Ausstellung \"Gegenstandslose Malerei in Amerika\" im Amerikahaus M\u00fcnchen.",
+        "lebensdaten": "1890-1967",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(99,138,0)",
+      "id": "Hilla von Rebay",
+      "label": "Hilla von Rebay",
+      "size": 12.325581550598145,
+      "x": -5653.59228515625,
+      "y": 6109.64208984375
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Georg Alexander Math\u00e9y war ein Grafiker und Gestalter, der mit dem Architekten Bruno Paul befreundet war.",
+        "lebensdaten": "1884 -1968",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(90,155,255)",
+      "id": "Georg Alexander Math\u00e9y",
+      "label": "Georg Alexander Math\u00e9y",
+      "size": 10.930233001708984,
+      "x": 6193.6728515625,
+      "y": 293.4183044433594
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Carl Orff war Komponist und Musikp\u00e4dagoge, dessen bekanntestes Werk die szenische Kantate \"Carmina Burana\" ist, die zu einem der popul\u00e4rsten Chorwerke des 20. Jahrhunderts wurde. Gemeinsam mit seiner Mitarbeiterin Gunild Keetman entwickelte Orff Anfang der 1930er Jahre ein neues Modell f\u00fcr Musik- und Bewegungserziehung von Kindern, das unter dem Namen \"Orff-Schulwerk\" bekannt wurde. Orffs Verhalten in der Zeit des Nationalsozialismus ergibt ein ambivalentes Bild: Eierseits erscheint der Komponist als ein unpolitischer bzw. nicht an Politik interessierter K\u00fcnstler, der sich mit den Machthabern arrangierte. Andererseits kann seine Oper \"Die Kluge\" von 1943 als im Kern auch regimekritisch verstanden werden.\u00a0",
+        "lebensdaten": "1895-1982",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Carl Orff",
+      "label": "Carl Orff",
+      "size": 10.0,
+      "x": -5044.20166015625,
+      "y": 693.90966796875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Wilhelm Fraenger\u00a0war Kunsthistoriker und Volkskundler, der 1910 bis 1918 Kunstgeschichte, Germanistik, Geschichtswissenschaft und Deutsche Volkskunde an der Universit\u00e4t Heidelberg studiert und 1917 mit einer Dissertation \u00fcber \"Die Bildanalysen des Roland Fr\u00e9art de Chambray\" \u00a0promoviert hatte. 1915 bis 1918 war er Assistent am Kunsthistorischen Institut der Universit\u00e4t Heidelberg. Er entschied sich gegen eine Universit\u00e4tslaufbahn und arbeitete als freier Autor. Er reiste studienhalber nach Holland, Frankreich und in die Schweiz. 1919 gr\u00fcndete er den bis 1921 existierenden Heidelberger Kreis \"Die Gemeinschaft\", dem u.a. Carl Zuckmayer, Oskar Kokoschka, Eberhard und Marie Luise Gothein und Hans Prinzhorn angeh\u00f6rten. Durch eine Vermittlung von Wolfgang Frommel konnte Fraenger als freier Mitarbeiter am S\u00fcdwestdeutschen Rundfunk in Frankfurt am Main und am Reichssender Berlin t\u00e4tig sein. Nach dem Zweiten Weltkrieg war Fraenger 1951 zusammen u.a. mit Wolfgang Frommel ein Gr\u00fcndungspate f\u00fcr die literarische Zeitschrift Castrum Peregrini.",
+        "lebensdaten": "1890-1964",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(90,155,255)",
+      "id": "Wilhelm Fraenger\u00a0",
+      "label": "Wilhelm Fraenger\u00a0",
+      "size": 10.930233001708984,
+      "x": 9443.56640625,
+      "y": -963.6354370117188
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Ehefrau: Hilde Kuntz geb. Breuer\nStudierte Theaterwissenschaft in Heidelberg und M\u00fcnchen, 1946-1982: Feuilleton-Redakteur bzw. ab 1969 Feuilleton-Leiter der \"Rhein-Neckar-Zeitung\".\u00a0",
+        "lebensdaten": "1909-1995",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Edwin Kuntz",
+      "label": "Edwin Kuntz",
+      "size": 10.930233001708984,
+      "x": -2372.50537109375,
+      "y": 1603.411865234375
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Rudolf Steinbach war ein deutscher Architekt und Hochschullehrer. Als freier Architekt in Heidelberg t\u00e4tig.",
+        "lebensdaten": "1903-1966",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Rudolf Steinbach",
+      "label": "Rudolf Steinbach",
+      "size": 10.465116500854492,
+      "x": -1454.074462890625,
+      "y": 3383.103515625
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Edward Munch war ein norwegischer Maler, Grafiker und Zeichner. Er studierte ab 1881 an der Staatlichen Kunstakademie in Oslo (damals: Kristiania). 1889 Aufenthalt in Paris, dann geht er f\u00fcr vier Jahre nach Berlin und wiede rnach Paris, bevor es in wieder nach Oslo zieht. Sein bekanntestes Werk ist \"Der Schrei\", 1893.",
+        "lebensdaten": "1863-1944",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(255,85,53)",
+      "id": "Edvard Munch",
+      "label": "Edvard Munch",
+      "size": 10.465116500854492,
+      "x": -9608.255859375,
+      "y": -4758.3173828125
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Julie Moufang, geborene Stutzmann, Ehefrau von Wilhelm Moufang sen. Zusammen hatten sie f\u00fcnf S\u00f6hne. Der zweit\u00e4lteste Sohn Fritz Moufang (1887-1906) vertarb fr\u00fch. \u00a0 \u00a0",
+        "lebensdaten": "1857-1938",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(90,155,255)",
+      "id": "Julie Moufang",
+      "label": "Julie Moufang",
+      "size": 12.325581550598145,
+      "x": 4328.92919921875,
+      "y": 1782.1181640625
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Leopold Stahl war Dramaturg, Schriftsteller",
+        "lebensdaten": "1882-1949",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Leopold Stahl",
+      "label": "Leopold Stahl",
+      "size": 10.465116500854492,
+      "x": -5054.07080078125,
+      "y": -399.1177978515625
+    },
+    {
+      "attributes": {
+        "lebensdaten": "1890-1967",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(255,85,53)",
+      "id": "Erich Kuhn",
+      "label": "Erich Kuhn",
+      "size": 11.39534854888916,
+      "x": -7888.01416015625,
+      "y": -6070.47607421875
+    },
+    {
+      "attributes": {
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(90,155,255)",
+      "id": "D\u00fcsseldorfer Kunstakademie",
+      "label": "D\u00fcsseldorfer Kunstakademie",
+      "size": 10.0,
+      "x": 9814.1484375,
+      "y": 4359.8330078125
+    },
+    {
+      "attributes": {
+        "lebensdaten": "1906-1969",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(255,85,53)",
+      "id": "Will Sohl",
+      "label": "Will Sohl",
+      "size": 11.860465049743652,
+      "x": -2080.1875,
+      "y": -5368.85888671875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Lovis Corinth war ein deutscher Maler, Zeichner und Grafiker.",
+        "lebensdaten": "1858-1925",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(230,52,104)",
+      "id": "Lovis Corinth",
+      "label": "Lovis Corinth",
+      "size": 10.930233001708984,
+      "x": 12745.9345703125,
+      "y": -794.1162719726562
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Albert Speer warArchitekt und in der Zeit des Nationalsozialismus ab 1942 Reichsminister. Er wurde im N\u00fcrnberger Prozess als Kriegsverbrecher zu 20 Jahren Gef\u00e4ngnis verurteilt.\u00a0",
+        "lebensdaten": "1905-1981",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(230,52,104)",
+      "id": "Albert Speer",
+      "label": "Albert Speer",
+      "size": 11.39534854888916,
+      "x": 11836.072265625,
+      "y": 2660.98828125
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Ella Zahn geb. Gang war die Ehefrau von Leopold Zahn.",
+        "lebensdaten": "1896-1971",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(90,155,255)",
+      "id": "Ella Zahn",
+      "label": "Ella Zahn",
+      "size": 12.325581550598145,
+      "x": 2929.9794921875,
+      "y": 3067.61669921875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Das Amerikahaus M\u00fcnchen, wurde wie viele andere ab 1946 im Rahmen des amerikanischen \u201eRe-Education-Programms\u201c gegr\u00fcndet. Die Amerikah\u00e4user sollten zu Beginn die USA in Deutschland repr\u00e4sentieren und zur Umerziehung mittels Informationen beitragen. Die Informationsbibliothek stellte eine wichtige Anlaufstelle f\u00fcr die amerikanische Kultur in der Nachkriegszeit dar.\u00a0Der Reading Room in M\u00fcnchen war einer der ersten Standorte in Deutschland. Ende der 1940er und in den 1950er Jahren fanden viele Ausstellungen moderner und zeitgen\u00f6ssischer amerikanischer Kunst u.a. unter Mitarbeit von Hilla von Rebay statt. 1951 wurden Werke von Josef Scharl im Amerikahaus M\u00fcnchen gezeigt.",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(99,138,0)",
+      "id": "Amerikahaus M\u00fcnchen",
+      "label": "Amerikahaus M\u00fcnchen",
+      "size": 10.465116500854492,
+      "x": -5906.05126953125,
+      "y": 7162.65869140625
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Enkel von Franz und Margret Moufang, Sohn von Hans-Karl Moufang und Cornelia Moufang-Lux. Bekannt als DJ Move.",
+        "lebensdaten": "1966-",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "David Moufang",
+      "label": "David Moufang",
+      "size": 10.930233001708984,
+      "x": -3174.038818359375,
+      "y": 2573.521728515625
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Im Kontext der Reformbewegung des Kunstgewerbes z\u00e4hlten die von von dem Tischler, M\u00f6belfabrikanten und Sozialreformer Karl Schmidt-Hellerau gege\u00fcndeten Werkst\u00e4tten um die Jahrhundertwende zu den bedeutendsten Produzenten von Reform-M\u00f6beln nach den Entw\u00fcrfen namhafter K\u00fcnstler*innen und waren auch Gr\u00fcndungsmitglied des ebenfalls um Reformen bem\u00fchten Deutschen Werkbundes.",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Deutsche Werkst\u00e4tten Hellerau",
+      "label": "Deutsche Werkst\u00e4tten Hellerau",
+      "size": 10.465116500854492,
+      "x": 3420.78857421875,
+      "y": -1110.98388671875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Das 1908 als St\u00e4dtische Kunst- und Alterth\u00fcmersammlung er\u00f6ffnete Museum bewahrt und zeigt die kunst- und kulturhistorischen Sammlungen der Stadt Heidelberg.",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(255,85,53)",
+      "id": "Kurpf\u00e4lzisches Museum Heidelberg",
+      "label": "Kurpf\u00e4lzisches Museum Heidelberg",
+      "size": 13.720930099487305,
+      "x": 2116.0830078125,
+      "y": -4245.3818359375
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Adolf Hitler war w\u00e4hrend des nationalsozialistischen Regimes von 1933 bis zu seinem Tod Reichskanzler und Diktator.",
+        "lebensdaten": "1889-1945",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(230,52,104)",
+      "id": "Adolf Hitler",
+      "label": "Adolf Hitler",
+      "size": 11.39534854888916,
+      "x": 15162.78125,
+      "y": 2487.346923828125
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Josef Scharl war ein expressionistischer Maler der Moderne.  Nach ersten Erfolgen, in Form von Einzelausstellungen in M\u00fcnchen, der Beteiligung an der \"Neuen M\u00fcnchner Sezession\" in den 1920er Jahren, sowie einer Ausstellung in der Galerie Josef und Karl Nierendorf 1933 und 1935 in Berlin, wurde Scharl 1935 mit einem Malverbot belegt, weil er sich weigerte, der NSDAP beizutreten. Im Anschluss an eine Einladung zu einer Gruppenausstellung im Museum of Modern Art, 1938 nach New York, beschloss er, zu emigrieren und kehrte nicht mehr nach Deutschland zur\u00fcck.",
+        "lebensdaten": "1896-1954",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(99,138,0)",
+      "id": "Josef Scharl",
+      "label": "Josef Scharl",
+      "size": 16.511627197265625,
+      "x": -2581.2265625,
+      "y": 5646.541015625
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Von Gro\u00dfherzog Friedrich I. von Baden auf Empfehlung der beiden Maler und Grafiker Hans Thoma und Wilhelm S\u00fcs 1901 gegr\u00fcndete Kermaikproduktionsst\u00e4tte.",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(90,155,255)",
+      "id": "Gro\u00dfherzogliche Majolika-Manufaktur Karlsruhe",
+      "label": "Gro\u00dfherzogliche Majolika-Manufaktur Karlsruhe",
+      "size": 10.0,
+      "x": 11489.3583984375,
+      "y": 195.25448608398438
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Geno Hartlaub war Tochter von Gustav Friedrich Hartlaub, Pseudonym: Muriel Castorp; deutsche Schriftstellerin. Geno Hartlaub geh\u00f6rte zur Gruppe 47 und war seit 1956 Mitglied des PEN-Zentrums der Bundesrepublik Deutschland, seit 1960 der Freien Akademie der K\u00fcnste in Hamburg und seit 1969 der Deutschen Akademie f\u00fcr Sprache und Dichtung in Darmstadt.",
+        "lebensdaten": "1915-2007",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Geno Hartlaub",
+      "label": "Geno Hartlaub",
+      "size": 10.465116500854492,
+      "x": -3701.233642578125,
+      "y": 1185.325927734375
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Richard Austin war ein Britischer Dirigent und Komponist, Sohn des englischen Operns\u00e4ngers und Komponisten Frederic und von Amy Austin. Er hatte Musik am Royal College of Music in London und in M\u00fcnchen studiert und arbeitete 1934 bis 1940 als Chefdirigent des Bournemouth Municipal Orchestra. Von 1946 bis zu seiner Emeritierung 1976 \u00fcbernahm er eine Professur am Royal College of Music in London und bekleidete parallel dazu ab 1955 die Position eines Direktors des College-Orchesters. Er leitete in dieser Zeit immer wieder verschiedene Orchester, darunter auch das London Symphony Orchestra, mit dem er 1955 Schallplattenaufnahmen zeitgen\u00f6ssischer Musik produzierte.",
+        "lebensdaten": "1903-1989",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Richard Austin",
+      "label": "Richard Austin",
+      "size": 11.39534854888916,
+      "x": -501.08349609375,
+      "y": 5586.49462890625
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Ulrika Ratka forschte \u00fcber das Werk von Edwin Scharff.",
+        "lebensdaten": "?-?",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Ulrika Ratka",
+      "label": "Ulrika Ratka",
+      "size": 10.465116500854492,
+      "x": 5003.263671875,
+      "y": 1201.3076171875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Das Amerikahaus Heidelberg (heute DAI: Deutsch-Amerikanisches Institut), wurde wie viele andere ab 1946 im Rahmen des amerikanischen \"Re-Education-Programms\" gegr\u00fcndet. Die Informationsbibliothek stellte eine wichtige Anlaufstelle f\u00fcr die amerikanische Kultur in der Nachkriegszeit dar. Dar\u00fcber hinaus etablierte sich ein Ausstellungsprogramm sowie ein w\u00f6chentlich wechselndes Veranstaltungsprogramm. Franz Moufang organisierte mehrere Ausstellungen in Kooperation mit dem Amerikahaus Heidelberg (DAI).",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Amerikahaus Heidelberg/DAI",
+      "label": "Amerikahaus Heidelberg/DAI",
+      "size": 11.39534854888916,
+      "x": -9146.125,
+      "y": -2116.939453125
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Ewald Lindemann war ab 1947 Generalmusikdirektor des St\u00e4dtischen Orchesters Heidelberg.",
+        "lebensdaten": "1897-nach 1959",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Ewald Lindemann",
+      "label": "Ewald Lindemann",
+      "size": 12.325581550598145,
+      "x": 320.9325256347656,
+      "y": 4299.552734375
+    },
+    {
+      "attributes": {
+        "lebensdaten": "1879-1970",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(255,85,53)",
+      "id": "Ida Kerkovius",
+      "label": "Ida Kerkovius",
+      "size": 10.930233001708984,
+      "x": -4294.87744140625,
+      "y": -5506.65185546875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Wolfgang Rothe ist Ehemann von Maria Rothe, Dolmetscher und Zeitungsreporter, Dr. Phil, Mitglieder der regionaler Kunstszene, lebt in Heidelberg, 1984 Gr\u00fcndungsmitglied der Freien Akademie der K\u00fcnste Mannheim.\u00a0Gemeinsam mit seiner Frau gr\u00fcndete er 1958 den ersten Grafikverlag der Bundesrepublik Deutschland (Edition Rothe), 1960 dann die Galerie Rothe, die zun\u00e4chst in Heidelberg ans\u00e4ssig war, sp\u00e4ter nach Frankfurt am Main umzog.",
+        "lebensdaten": "1929-",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Wolfgang Rothe",
+      "label": "Wolfgang Rothe",
+      "size": 10.465116500854492,
+      "x": -3740.04443359375,
+      "y": -1135.25830078125
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Viktoria Noonan (geb. Aboud) war die Frau von Tom A. Noonan.",
+        "lebensdaten": "1914-1978",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Viktoria Noonan",
+      "label": "Viktoria Noonan",
+      "size": 10.465116500854492,
+      "x": -9023.1328125,
+      "y": 545.9397583007812
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Albrecht Wechssler war I. Vorsitzender des Heideldelberger Kunstvereins in Zeitraum von 1959 bis 1964",
+        "lebensdaten": "?-?",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(255,85,53)",
+      "id": "Albrecht Wechssler",
+      "label": "Albrecht Wechssler",
+      "size": 10.465116500854492,
+      "x": -6317.32275390625,
+      "y": -5004.3818359375
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Marie Marcks war eine deutsche K\u00fcnstlerin. In Berlin geboren, zieht Marie Marcks nach einem Studium in Berlin und Stuttgart 1948 nach Heidelberg und wird zun\u00e4chst vor allem vor Ort als Grafikerin bekannt, bevor sie ab 1965 dank ihrer Zeichnungen und Karikaturen in der \"S\u00fcddeutschen Zeitung\" deutschlandweit wahrgenommen wird. Der Bildhauer Gerhard Marcks ist ihr Onkel.\u00a0",
+        "lebensdaten": "1922-2014",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Marie Marcks",
+      "label": "Marie Marcks",
+      "size": 13.720930099487305,
+      "x": 3761.33154296875,
+      "y": -5775.5322265625
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Wolfgang Sauerl\u00e4nder war Jurist und einer von Josef Scharls engsten Freunden. Er emigrierte mit ihm 1938 in die USA.",
+        "lebensdaten": "1911-1977",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(99,138,0)",
+      "id": "Wolfgang Sauerl\u00e4nder",
+      "label": "Wolfgang Sauerl\u00e4nder",
+      "size": 10.0,
+      "x": -3059.010986328125,
+      "y": 6965.125
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Hermann Speer war Bruder von Albert und Ernst, Sohn von Albert Friedrich Speer und Luise Speer geb. Hommel. Als Industriefotograf t\u00e4tig.",
+        "lebensdaten": "1902-1980",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(90,155,255)",
+      "id": "Hermann Speer",
+      "label": "Hermann Speer",
+      "size": 13.255813598632812,
+      "x": 1880.31103515625,
+      "y": 5003.0224609375
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Gustel Speer, geborene an der Heiden, war Ehefrau von Hermann Speer.",
+        "lebensdaten": "1900-1968",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(90,155,255)",
+      "id": "Gustel (Augusta Amalia) Speer",
+      "label": "Gustel (Augusta Amalia) Speer",
+      "size": 10.465116500854492,
+      "x": 5316.498046875,
+      "y": 6596.1650390625
+    },
+    {
+      "attributes": {
+        "lebensdaten": "?-?",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(255,85,53)",
+      "id": "Hans Hafenrichter",
+      "label": "Hans Hafenrichter",
+      "size": 11.39534854888916,
+      "x": -5188.4609375,
+      "y": -3368.68310546875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Signe Gehrmann war \u00f6sterreichische K\u00fcnstlerin. Ehefrau von Hasso Gehrmann, Kunsttheoretiker und ebenso Maler.",
+        "lebensdaten": "1926-2016",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(0,45,207)",
+      "id": "Signe Gehrmann",
+      "label": "Signe Gehrmann",
+      "size": 10.465116500854492,
+      "x": -3149.43408203125,
+      "y": -1740.4512939453125
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Gr\u00fcndung: 1763 in Berlin durch Friedrich den Gro\u00dfen. Nahezu von Beginn an bis in die Gegenwart kooperierte die Manufaktur mit zeitgen\u00f6ssischen K\u00fcnstler*innen. Die Manufaktur besteht noch heute. Firmensignet ist das kobaltblaue Zepter.\u00a0",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(90,155,255)",
+      "id": "K\u00f6nigliche Porzellan-Manufaktur, Berlin",
+      "label": "K\u00f6nigliche Porzellan-Manufaktur, Berlin",
+      "size": 10.930233001708984,
+      "x": 8757.5927734375,
+      "y": 1046.5791015625
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Bruder von Franz, mit Nicola, Fritz und Eugen.",
+        "lebensdaten": "1895-1989",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(90,155,255)",
+      "id": "Wilhelm Moufang jun.",
+      "label": "Wilhelm Moufang jun.",
+      "size": 16.046512603759766,
+      "x": 778.090087890625,
+      "y": 1348.1810302734375
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Irene Fischer-Nagel ist Tochter von Hans Fischer-Schuppach und Hanna Nagel",
+        "lebensdaten": "1938-",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(0,149,101)",
+      "id": "Irene Fischer-Nagel",
+      "label": "Irene Fischer-Nagel",
+      "size": 10.930233001708984,
+      "x": 6507.42529296875,
+      "y": -5550.546875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Florian Karsch war Galerist, Kunsth\u00e4ndler und ehemaliger Eigent\u00fcmer der Galerie Nierendorf. Er war der Sohn von Meta Nierendorf und Joachim Karsch.",
+        "lebensdaten": "1925-2015",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(99,138,0)",
+      "id": "Florian Karsch",
+      "label": "Florian Karsch",
+      "size": 11.860465049743652,
+      "x": -7512.96337890625,
+      "y": 2102.66259765625
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Igor von Jakimow war ein russischer Maler und Bildhauer, der ab 1931 in Heidelberg wohnhaft war.",
+        "lebensdaten": "1885-1962",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(0,149,101)",
+      "id": "Igor von Jakimow",
+      "label": "Igor von Jakimow",
+      "size": 12.790698051452637,
+      "x": 4032.3037109375,
+      "y": -3301.6171875
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Die Zeitschrift \"Das Kunstwerk\" wurde von Leopold Zahn und Woldemar Klein  in Baden-Baden herausgegeben. Sie erschien  von 1946-1991 und war ein wichtiges Organ f\u00fcr die Moderne und zeitgen\u00f6ssische Kunst.",
+        "lebensdaten": "1946-1991",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(90,155,255)",
+      "id": "Das Kunstwerk",
+      "label": "Das Kunstwerk",
+      "size": 12.790698051452637,
+      "x": 96.41329956054688,
+      "y": 2096.298828125
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Kurt Karl Eberlein war Kunsthistoriker. Er hatte ab 1908 Kunstgeschichte, Arch\u00e4ologie, \u00c4gyptologie und Literatur in Heidelberg, M\u00fcnchen und Bonn studiert; er promovierte 1916 an der Friedrich-Wilhelms-Universit\u00e4t Berlin. 1933 ver\u00f6ffentlichte er die Schrift \"Was ist deutsch in der deutschen Kunst\", in der sich \"gegen alles Anationale, Antinationale, Internationale in der deutschen Kunst\" (Eberlein) positionierte. Eberlein bekannte sich in der Folge radikal zu den Ideen des Nationalsozialismus und vertrat eine v\u00f6lkische Kunstgeschichte.",
+        "lebensdaten": "1890-1944/1945",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(90,155,255)",
+      "id": "Kurt Karl Eberlein",
+      "label": "Kurt Karl Eberlein",
+      "size": 10.0,
+      "x": 8292.3173828125,
+      "y": -493.580078125
+    },
+    {
+      "attributes": {
+        "lebensdaten": "1920-2001",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(255,85,53)",
+      "id": "Horst Skodlerrak",
+      "label": "Horst Skodlerrak",
+      "size": 10.465116500854492,
+      "x": -3973.30322265625,
+      "y": -4600.6162109375
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Die Nationalsozialistische Deutsche Arbeiterpartei wurd 1920 in der Weimarer Republik gegr\u00fcndet. \u00a0Zwischen 1923-25 verboten, erstarkt die Partei schlie\u00dflich unter Parteivorsitz Adolf Hitlers und wird von 1933 bis 1945 einzige zugelassende Partei im Dritten Reich. Mit Zusammen\u00a0",
+        "lebensdaten": "1920-1945",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(230,52,104)",
+      "id": "NSDAP",
+      "label": "NSDAP",
+      "size": 12.325581550598145,
+      "x": 13445.9453125,
+      "y": 768.8242797851562
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Heinz Ohff war ein deutscher Kunstkritiker und Autor. Er war u.a. als Journalist und Chefredakteur des \"Heidelberger Tageblatts\" t\u00e4tig.",
+        "lebensdaten": "1922-2006",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(0,149,101)",
+      "id": "Heinz Ohff",
+      "label": "Heinz Ohff",
+      "size": 10.930233001708984,
+      "x": 5698.32666015625,
+      "y": -8022.4462890625
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Albert Einstein war ein theoretischer Physiker und Nobelpreistr\u00e4ger  j\u00fcdischer Abstammung. 1933 emigrierte er in die USA. Er war eng mit Josef Scharl befreundet.",
+        "lebensdaten": "1879-1955",
+        "netzwerkzuordnung": "Netzwerke aus Ausstellungssektionen"
+      },
+      "color": "rgb(99,138,0)",
+      "id": "Albert Einstein",
+      "label": "Albert Einstein",
+      "size": 10.930233001708984,
+      "x": -4858.7939453125,
+      "y": 3221.496337890625
+    },
+    {
+      "attributes": {
+        "kurzinformation": "Oskar Kokoschka war ein \u00f6sterreichischer Maler, Grafiker und Schrifsteller.",
+        "lebensdaten": "1886-1980",
+        "netzwerkzuordnung": "Erweitertes Netzwerk"
+      },
+      "color": "rgb(230,52,104)",
+      "id": "Oskar Kokoschka",
+      "label": "Oskar Kokoschka",
+      "size": 11.39534854888916,
+      "x": 9573.158203125,
+      "y": 1978.8929443359375
+    }
+  ]
+}
