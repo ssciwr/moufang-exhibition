@@ -173,14 +173,6 @@ def displayNodeData(data):
         if "lebensdaten" in data:
             content.append(html.P([html.B("Lebensdaten: "), data["lebensdaten"]]))
 
-        connections = [html.B("Verbindungen: "), html.Br()]
-        for neighbor in filtered_nodes:
-            if neighbor["data"]["id"] != data["id"]:
-                connections.append(neighbor["data"]["label"] + ", ")
-                # connections.append(html.Br())
-
-        content.extend(connections)
-
         return data["label"], content, filtered_edges + filtered_nodes
 
     return None, None, nodes + edges
