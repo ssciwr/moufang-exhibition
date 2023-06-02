@@ -71,7 +71,7 @@ SIDEBAR_STYLE = {
     "top": 0,
     "right": 0,
     "bottom": 0,
-    "width": "24rem",
+    "width": "20rem",
     "padding": "2rem 1rem",
     "background-color": "#f8f9fa",
     "overflow": "hidden",
@@ -115,9 +115,9 @@ network = html.Div(
             maxZoom=3,
             style={
                 "width": "100%",
-                "height": "882px",
+                "height": "700px",
                 "background-image": "url(/assets/moufang.png)",
-                "background-size": "contain",
+                "background-size": "cover",
             },
             elements=nodes + edges,
             stylesheet=[
@@ -128,7 +128,7 @@ network = html.Div(
                         "background-color": "data(color)",
                         "width": "data(size)",
                         "height": "data(size)",
-                        "font-size": "150px",
+                        "font-size": "180px",
                     },
                 },
                 {
@@ -176,8 +176,8 @@ def displayNodeData(data):
         connections = [html.B("Verbindungen: "), html.Br()]
         for neighbor in filtered_nodes:
             if neighbor["data"]["id"] != data["id"]:
-                connections.append(neighbor["data"]["label"])
-                connections.append(html.Br())
+                connections.append(neighbor["data"]["label"] + ", ")
+                # connections.append(html.Br())
 
         content.extend(connections)
 
