@@ -16,7 +16,13 @@ python -m pip install -r requirements.txt
 python app.py
 ```
 
-In case you are serving non-locally, you should use a proper webserver.
+If you need to serve this in the production environment, you should stop the previously running
+`gunicorn` process by identifying its PID with `ps ax | grep gunicorn` and `kill` it. Then, in
+the `moufang-exhibition` directory do:
+
+```bash
+nohup gunicorn app:server -b :8000 &
+```
 
 ## License
 
