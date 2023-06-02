@@ -69,9 +69,10 @@ SIDEBAR_STYLE = {
     "top": 0,
     "right": 0,
     "bottom": 0,
-    "width": "16rem",
+    "width": "24rem",
     "padding": "2rem 1rem",
     "background-color": "#f8f9fa",
+    "overflow": "hidden",
 }
 
 # The sidebar object
@@ -112,9 +113,8 @@ network = html.Div(
             maxZoom=3,
             style={
                 "width": "100%",
-                "height": "1000px",
+                "height": "882px",
                 "background-image": "url(/assets/moufang.png)",
-                "background-opacity": 0.1,
                 "background-size": "contain",
             },
             elements=nodes + edges,
