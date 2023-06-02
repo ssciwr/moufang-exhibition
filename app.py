@@ -47,7 +47,9 @@ for edge in data["edges"]:
     edgedata = {"data": {}}
     edgedata["data"]["source"] = edge["source"]
     edgedata["data"]["target"] = edge["target"]
-    edgedata["data"]["id"] = edge["id"]
+    # Not reading the original edge id's here allows us to regenerate the graph
+    # even without a change to it. This is a horrible hack, but it seems to work.
+    # edgedata["data"]["id"] = edge["id"]
 
     node_colors = []
     for node in data["nodes"]:
