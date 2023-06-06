@@ -96,6 +96,14 @@ sidebar = html.Div(
                 html.P(
                     "Die Farbverteilung repräsentiert annähernd die verschiedenen Interessen- und Freundesgruppen, die sich im Netzwerk von Franz Moufang entwickelt haben."
                 ),
+                html.P(
+                    "Die Netzwerkvisualisierung wurde erstellt mit freundlicher Unterstützung von Dr. Dominic Kempf und Gwydion Daskalakis "
+                    + "vom Scientific Software Center (SSC) - Universität Heidelberg.",
+                    style={
+                        "font-size": "10px",
+                        "margin-top": "40px",
+                    },
+                ),
             ],
             className="lead",
             id="sidebar-content",
@@ -192,4 +200,4 @@ app.layout = html.Div([network, sidebar])
 
 
 if __name__ == "__main__":
-    app.run_server(debug=False)
+    app.run_server(debug=False, port=8087)
